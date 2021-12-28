@@ -1,7 +1,7 @@
 function mapAffiliations(){ return [
-	"Mount Carmel",
 	"German Baptist Brethren",
 	"Church of the Brethren",
+	"Mount Carmel",
 	"Eastern Mount Carmel",
 	"Western Mount Carmel",
 	"(Old) Mennonite Church",
