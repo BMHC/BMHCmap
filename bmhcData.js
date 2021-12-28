@@ -76,28 +76,22 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 		"mb": 1,
 		"events": [
 			{
-				"date": "1827",
+				"date": "1869",
 				"verb": "begin-history",
 				"object": "",
 				"comment": "organization"
 			},
 			{
-				"date": "1827",
-				"verb": "set-membership",
-				"object": "12",
-				"comment": "membership at organization"
-			},
-			{
-				"date": "1827",
-				"verb": "set-locale",
-				"object": "38.875102,-78.547024",
+				"date": "1870",
+				"verb": "set-affiliation",
+				"object": 302,
 				"comment": ""
 			},
 			{
 				"date": "1870",
-				"verb": "just-comment",
-				"object": "",
-				"comment": "founded"
+				"verb": "set-locale",
+				"object": "38.87463262170116, -78.54967050155707",
+				"comment": ""
 			},
 			{
 				"date": "1925",
@@ -110,6 +104,12 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"verb": "set-membership",
 				"object": "367",
 				"comment": "year2n"
+			},
+			{
+				"date": "1963",
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": "separately organized as congregation"
 			},
 			{
 				"date": "1975",
@@ -2526,7 +2526,13 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 			{
 				"date": "1854",
 				"verb": "set-locale",
-				"object": "38.873031,-78.594486",
+				"object": "38.87849177459324, -78.62184456717176",
+				"comment": "Union church GBB and Methodist"
+			},
+			{
+				"date": "1854",
+				"verb": "set-affiliation",
+				"object": 302,
 				"comment": ""
 			},
 			{
@@ -2549,15 +2555,21 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 			},
 			{
 				"date": "1989",
-				"verb": "just-comment",
-				"object": "",
-				"comment": "organization"
-			},
-			{
-				"date": "1989",
 				"verb": "set-membership",
 				"object": "157",
 				"comment": "membership at organization"
+			},
+			{
+				"date": "1989",
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": "Separately organized as a congregation"
+			},
+			{
+				"date": "2000",
+				"verb": "set-locale",
+				"object": "38.87183350969139, -78.59431437457529",
+				"comment": "Moved and built new building"
 			},
 			{
 				"date": "2002",
@@ -2650,22 +2662,22 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"comment": ""
 			},
 			{
-				"date": "1976",
-				"verb": "just-comment",
-				"object": "",
-				"comment": "organization"
+				"date": "1964",
+				"verb": "set-affiliation",
+				"object": 302,
+				"comment": ""
 			},
 			{
 				"date": "1976",
 				"verb": "set-membership",
 				"object": "146",
-				"comment": "membership at organization"
+				"comment": ""
 			},
 			{
 				"date": "1976",
-				"verb": "set-membership",
-				"object": "146",
-				"comment": "year2n"
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": "Separately organized as congregation"
 			},
 			{
 				"date": "2002",
@@ -10624,10 +10636,28 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 		"mb": 1,
 		"events": [
 			{
-				"date": "1875",
+				"date": "1841",
 				"verb": "begin-history",
 				"object": "",
 				"comment": "founded"
+			},
+			{
+				"date": "1841",
+				"verb": "set-locale",
+				"object": "38.760497155075385, -78.66611373680782",
+				"comment": "Meeting at Woodlawn Academy School"
+			},
+			{
+				"date": "1841",
+				"verb": "set-affiliation",
+				"object": 281,
+				"comment": "divided from Flat Rock congregation"
+			},
+			{
+				"date": "1875",
+				"verb": "just-comment",
+				"object": "",
+				"comment": "Built meeting house"
 			},
 			{
 				"date": "1875",
@@ -10636,16 +10666,22 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"comment": ""
 			},
 			{
-				"date": "1911",
+				"date": "1910",
 				"verb": "just-comment",
 				"object": "",
-				"comment": "organization"
+				"comment": "Pleasant View Congregation included Walker's Chapel and Wakeman's Grove"
 			},
 			{
 				"date": "1950",
 				"verb": "set-membership",
 				"object": "294",
 				"comment": "year1n"
+			},
+			{
+				"date": "1974",
+				"verb": "just-comment",
+				"object": "",
+				"comment": "Wakeman's Grove and Walker's Chapel separately organized"
 			},
 			{
 				"date": "1975",
