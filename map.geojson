@@ -24,6 +24,52 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Antioch (Woodstock)",
+				"begin": "1870",
+				"end": "1907",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Woodstock",
+					"German Baptist Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.54967050155707,
+					38.87463262170116
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antioch (Woodstock)",
+				"begin": "1908",
+				"end": "1924",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Woodstock",
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.54967050155707,
+					38.87463262170116
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Arbor Hill",
 				"begin": "1926",
 				"end": "1946",
@@ -988,18 +1034,44 @@
 			"properties": {
 				"name": "Columbia Furnace",
 				"begin": "1854",
-				"end": "1974",
+				"end": "1907",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Woodstock",
+					"German Baptist Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.594486,
-					38.873031
+					-78.62184456717176,
+					38.87849177459324
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Columbia Furnace",
+				"begin": "1908",
+				"end": "1974",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Woodstock",
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.62184456717176,
+					38.87849177459324
 				]
 			}
 		},
@@ -4294,11 +4366,57 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Pleasant View (VA)",
+				"begin": "1841",
+				"end": "1874",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"German Baptist Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.66611373680782,
+					38.760497155075385
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Pleasant View (VA)",
 				"begin": "1875",
+				"end": "1907",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"German Baptist Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.660277,
+					38.79078
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Pleasant View (VA)",
+				"begin": "1908",
 				"end": "1949",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -5389,7 +5507,8 @@
 				"denomination": 1,
 				"weight": 0,
 				"affiliations": [
-					"Pleasant View (VA)"
+					"Pleasant View (VA)",
+					"Church of the Brethren"
 				],
 				"tags": [],
 				"photo": ""
@@ -6174,26 +6293,6 @@
 				"coordinates": [
 					-79.951712,
 					37.497933
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "Antioch (Woodstock)",
-				"begin": "1827",
-				"end": "1924",
-				"denomination": 1,
-				"weight": 3.4641016151377544,
-				"affiliations": [],
-				"tags": [],
-				"photo": ""
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-78.547024,
-					38.875102
 				]
 			}
 		},
@@ -10038,7 +10137,10 @@
 				"end": "1975",
 				"denomination": 1,
 				"weight": 6.324555320336759,
-				"affiliations": [],
+				"affiliations": [
+					"Woodstock",
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -14924,7 +15026,9 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 8.94427190999916,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -15066,7 +15170,9 @@
 				"end": "2021",
 				"denomination": 1,
 				"weight": 9,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -18014,7 +18120,9 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 10.392304845413264,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -18316,15 +18424,17 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 10.535653752852738,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.547024,
-					38.875102
+					-78.54967050155707,
+					38.87463262170116
 				]
 			}
 		},
@@ -20010,7 +20120,9 @@
 				"end": "2021",
 				"denomination": 1,
 				"weight": 11.489125293076057,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -20330,15 +20442,18 @@
 				"end": "1987",
 				"denomination": 1,
 				"weight": 11.74734012447073,
-				"affiliations": [],
+				"affiliations": [
+					"Woodstock",
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.594486,
-					38.873031
+					-78.62184456717176,
+					38.87849177459324
 				]
 			}
 		},
@@ -20838,7 +20953,9 @@
 				"end": "2001",
 				"denomination": 1,
 				"weight": 12.083045973594572,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -21018,15 +21135,18 @@
 				"end": "1949",
 				"denomination": 1,
 				"weight": 12.24744871391589,
-				"affiliations": [],
+				"affiliations": [
+					"Woodstock",
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.547024,
-					38.875102
+					-78.54967050155707,
+					38.87463262170116
 				]
 			}
 		},
@@ -21038,15 +21158,17 @@
 				"end": "1998",
 				"denomination": 1,
 				"weight": 12.24744871391589,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.547024,
-					38.875102
+					-78.54967050155707,
+					38.87463262170116
 				]
 			}
 		},
@@ -21659,18 +21781,42 @@
 			"properties": {
 				"name": "Columbia Furnace",
 				"begin": "1989",
-				"end": "2001",
+				"end": "1999",
 				"denomination": 1,
 				"weight": 12.529964086141668,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.594486,
-					38.873031
+					-78.62184456717176,
+					38.87849177459324
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Columbia Furnace",
+				"begin": "2000",
+				"end": "2001",
+				"denomination": 1,
+				"weight": 12.529964086141668,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.59431437457529,
+					38.87183350969139
 				]
 			}
 		},
@@ -22528,15 +22674,18 @@
 				"end": "1988",
 				"denomination": 1,
 				"weight": 13.038404810405298,
-				"affiliations": [],
+				"affiliations": [
+					"Woodstock",
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.594486,
-					38.873031
+					-78.62184456717176,
+					38.87849177459324
 				]
 			}
 		},
@@ -23474,15 +23623,18 @@
 				"end": "1984",
 				"denomination": 1,
 				"weight": 13.784048752090222,
-				"affiliations": [],
+				"affiliations": [
+					"Woodstock",
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.594486,
-					38.873031
+					-78.62184456717176,
+					38.87849177459324
 				]
 			}
 		},
@@ -23536,15 +23688,17 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 13.856406460551018,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.594486,
-					38.873031
+					-78.59431437457529,
+					38.87183350969139
 				]
 			}
 		},
@@ -25222,15 +25376,17 @@
 				"end": "2021",
 				"denomination": 1,
 				"weight": 15.394804318340652,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.594486,
-					38.873031
+					-78.59431437457529,
+					38.87183350969139
 				]
 			}
 		},
@@ -26602,7 +26758,9 @@
 				"end": "1974",
 				"denomination": 1,
 				"weight": 17.146428199482248,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -26936,15 +27094,17 @@
 				"end": "2021",
 				"denomination": 1,
 				"weight": 17.578395831246947,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.547024,
-					38.875102
+					-78.54967050155707,
+					38.87463262170116
 				]
 			}
 		},
@@ -27983,18 +28143,43 @@
 			"properties": {
 				"name": "Antioch (Woodstock)",
 				"begin": "1950",
-				"end": "1974",
+				"end": "1962",
 				"denomination": 1,
 				"weight": 19.157244060668017,
-				"affiliations": [],
+				"affiliations": [
+					"Woodstock",
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.547024,
-					38.875102
+					-78.54967050155707,
+					38.87463262170116
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antioch (Woodstock)",
+				"begin": "1963",
+				"end": "1974",
+				"denomination": 1,
+				"weight": 19.157244060668017,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.54967050155707,
+					38.87463262170116
 				]
 			}
 		},
