@@ -11424,7 +11424,13 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 			{
 				"date": "1880",
 				"verb": "set-locale",
-				"object": "38.950599,-78.433596",
+				"object": "38.96012194595784, -78.41765641690061",
+				"comment": ""
+			},
+			{
+				"date": "1880",
+				"verb": "set-affiliation",
+				"object": 302,
 				"comment": ""
 			},
 			{
@@ -11438,6 +11444,12 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"verb": "set-membership",
 				"object": "64",
 				"comment": "membership at organization"
+			},
+			{
+				"date": "1957",
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": ""
 			},
 			{
 				"date": "1964",
@@ -11482,10 +11494,16 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"comment": ""
 			},
 			{
+				"date": "1870",
+				"verb": "set-affiliation",
+				"object": 281,
+				"comment": ""
+			},
+			{
 				"date": "1883",
-				"verb": "just-comment",
-				"object": "",
-				"comment": "organization"
+				"verb": "set-affiliation",
+				"object": 283,
+				"comment": "Division of congregation"
 			},
 			{
 				"date": "1950",
@@ -13302,7 +13320,13 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 			{
 				"date": "1877",
 				"verb": "set-locale",
-				"object": "38.917833,-78.47218",
+				"object": "38.91784967465673, -78.47003423428752",
+				"comment": ""
+			},
+			{
+				"date": "1877",
+				"verb": "set-affiliation",
+				"object": 302,
 				"comment": ""
 			},
 			{
@@ -13316,6 +13340,12 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"verb": "just-comment",
 				"object": "",
 				"comment": "organization"
+			},
+			{
+				"date": "1963",
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": ""
 			},
 			{
 				"date": "1975",
@@ -13560,7 +13590,19 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 			{
 				"date": "1894",
 				"verb": "set-locale",
-				"object": "38.766518,-78.652956",
+				"object": "38.75580114442796, -78.60390101505077",
+				"comment": ""
+			},
+			{
+				"date": "1894",
+				"verb": "set-affiliation",
+				"object": 302,
+				"comment": ""
+			},
+			{
+				"date": "1894",
+				"verb": "set-locale",
+				"object": "38.75580114442796, -78.60390101505077",
 				"comment": ""
 			},
 			{
@@ -13574,6 +13616,12 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"verb": "set-membership",
 				"object": "107",
 				"comment": "membership at organization"
+			},
+			{
+				"date": "1974",
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": "Separately oreganized congregation"
 			},
 			{
 				"date": "1975",
@@ -14286,7 +14334,7 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 			{
 				"date": "1827",
 				"verb": "set-locale",
-				"object": "38.86745340263874, -78.51953745963506",
+				"object": "38.91783223777919, -78.47006682416404",
 				"comment": ""
 			},
 			{
@@ -14296,9 +14344,9 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"comment": ""
 			},
 			{
-				"date": "1908",
+				"date": "1827",
 				"verb": "set-affiliation",
-				"object": 280,
+				"object": 136,
 				"comment": ""
 			}
 		]
