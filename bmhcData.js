@@ -106,16 +106,16 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"comment": "year2n"
 			},
 			{
-				"date": "1963",
-				"verb": "set-affiliation",
-				"object": 280,
-				"comment": "separately organized as congregation"
-			},
-			{
 				"date": "1975",
 				"verb": "set-membership",
 				"object": "150",
 				"comment": "year3n"
+			},
+			{
+				"date": "1982",
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": "separately organized as congregation"
 			},
 			{
 				"date": "1999",
@@ -2542,6 +2542,12 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"comment": "year1n"
 			},
 			{
+				"date": "1982",
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": "Separately organized as a congregation"
+			},
+			{
 				"date": "1985",
 				"verb": "set-membership",
 				"object": "138",
@@ -2558,12 +2564,6 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"verb": "set-membership",
 				"object": "157",
 				"comment": "membership at organization"
-			},
-			{
-				"date": "1989",
-				"verb": "set-affiliation",
-				"object": 280,
-				"comment": "Separately organized as a congregation"
 			},
 			{
 				"date": "2000",
@@ -14341,12 +14341,6 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"date": "1827",
 				"verb": "set-affiliation",
 				"object": 281,
-				"comment": ""
-			},
-			{
-				"date": "1827",
-				"verb": "set-affiliation",
-				"object": 136,
 				"comment": ""
 			}
 		]
