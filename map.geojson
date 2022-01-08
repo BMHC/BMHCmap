@@ -521,7 +521,7 @@
 			"properties": {
 				"name": "Bethlehem Fellowship",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 0,
 				"affiliations": [],
@@ -561,7 +561,7 @@
 			"properties": {
 				"name": "Big Spring",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 0,
 				"affiliations": [],
@@ -1691,7 +1691,7 @@
 			"properties": {
 				"name": "First Brethren, B. V.",
 				"begin": "1890",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 0,
 				"affiliations": [],
@@ -1833,7 +1833,7 @@
 			"properties": {
 				"name": "Fremont",
 				"begin": "2002",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 0,
 				"affiliations": [],
@@ -1973,7 +1973,7 @@
 			"properties": {
 				"name": "Gordonsville Chapel",
 				"begin": "2016",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 0,
 				"affiliations": [
@@ -2319,7 +2319,7 @@
 			"properties": {
 				"name": "Iglesia Del Buen Pastor",
 				"begin": "2014",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 0,
 				"affiliations": [],
@@ -2359,7 +2359,7 @@
 			"properties": {
 				"name": "Iglesia Discipular Anabapt.",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 0,
 				"affiliations": [],
@@ -2399,7 +2399,7 @@
 			"properties": {
 				"name": "Iglesia Enciende una Luz",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 0,
 				"affiliations": [],
@@ -3270,7 +3270,7 @@
 			"properties": {
 				"name": "Mount Lebanon Fellowship",
 				"begin": "1967",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 0,
 				"affiliations": [
@@ -3506,7 +3506,7 @@
 			"properties": {
 				"name": "Mountain Grove Chapel",
 				"begin": "1961",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 0,
 				"affiliations": [
@@ -4726,18 +4726,44 @@
 			"properties": {
 				"name": "Round Hill",
 				"begin": "1880",
-				"end": "1956",
+				"end": "1907",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Woodstock",
+					"German Baptist Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.433596,
-					38.950599
+					-78.41765641690061,
+					38.96012194595784
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Round Hill",
+				"begin": "1908",
+				"end": "1956",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Woodstock",
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.41765641690061,
+					38.96012194595784
 				]
 			}
 		},
@@ -4746,10 +4772,34 @@
 			"properties": {
 				"name": "Saint Luke",
 				"begin": "1870",
+				"end": "1882",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"German Baptist Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.581952,
+					38.903292
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Saint Luke",
+				"begin": "1883",
 				"end": "1949",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Brethren Church"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -5259,7 +5309,7 @@
 			"properties": {
 				"name": "The Table",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 0,
 				"affiliations": [],
@@ -5421,18 +5471,44 @@
 			"properties": {
 				"name": "Valley Pike",
 				"begin": "1877",
-				"end": "1955",
+				"end": "1907",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Woodstock",
+					"German Baptist Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.47218,
-					38.917833
+					-78.47003423428752,
+					38.91784967465673
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Valley Pike",
+				"begin": "1908",
+				"end": "1955",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Woodstock",
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.47003423428752,
+					38.91784967465673
 				]
 			}
 		},
@@ -5526,18 +5602,44 @@
 			"properties": {
 				"name": "Walkers Chapel",
 				"begin": "1894",
-				"end": "1973",
+				"end": "1907",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Woodstock",
+					"German Baptist Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.652956,
-					38.766518
+					-78.60390101505077,
+					38.75580114442796
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Walkers Chapel",
+				"begin": "1908",
+				"end": "1973",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Woodstock",
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.60390101505077,
+					38.75580114442796
 				]
 			}
 		},
@@ -5829,8 +5931,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.51953745963506,
-					38.86745340263874
+					-78.47006682416404,
+					38.91783223777919
 				]
 			}
 		},
@@ -5839,7 +5941,7 @@
 			"properties": {
 				"name": "Woodstock",
 				"begin": "1908",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 0,
 				"affiliations": [
@@ -5851,8 +5953,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.51953745963506,
-					38.86745340263874
+					-78.47006682416404,
+					38.91783223777919
 				]
 			}
 		},
@@ -5901,7 +6003,7 @@
 			"properties": {
 				"name": "Hildebrand",
 				"begin": "2015",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 2,
 				"affiliations": [],
@@ -5941,7 +6043,7 @@
 			"properties": {
 				"name": "Good Shepherd",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 2.23606797749979,
 				"affiliations": [],
@@ -6001,7 +6103,7 @@
 			"properties": {
 				"name": "Family of Hope",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 2.8284271247461903,
 				"affiliations": [],
@@ -6041,7 +6143,7 @@
 			"properties": {
 				"name": "Pleasant Hill (Floyd)",
 				"begin": "1993",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 2.8284271247461903,
 				"affiliations": [],
@@ -6081,7 +6183,7 @@
 			"properties": {
 				"name": "Pleasant Grove",
 				"begin": "2007",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 3,
 				"affiliations": [],
@@ -6121,7 +6223,7 @@
 			"properties": {
 				"name": "Broad Street",
 				"begin": "2015",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 3.1622776601683795,
 				"affiliations": [],
@@ -6181,7 +6283,7 @@
 			"properties": {
 				"name": "Gatewood",
 				"begin": "1999",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 3.1622776601683795,
 				"affiliations": [],
@@ -6281,7 +6383,7 @@
 			"properties": {
 				"name": "Pleasant Dale",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 3.3166247903554,
 				"affiliations": [],
@@ -6421,7 +6523,7 @@
 			"properties": {
 				"name": "Woodland",
 				"begin": "2013",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 3.4641016151377544,
 				"affiliations": [],
@@ -6483,7 +6585,7 @@
 			"properties": {
 				"name": "Ferrum, First",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 3.7416573867739413,
 				"affiliations": [],
@@ -6583,7 +6685,7 @@
 			"properties": {
 				"name": "Mount Carmel (WV)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 3.872983346207417,
 				"affiliations": [],
@@ -6683,7 +6785,7 @@
 			"properties": {
 				"name": "Iglesia Cristiana Renacer",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 4,
 				"affiliations": [],
@@ -6783,7 +6885,7 @@
 			"properties": {
 				"name": "Olean",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 4.123105625617661,
 				"affiliations": [],
@@ -6803,7 +6905,7 @@
 			"properties": {
 				"name": "Valley Bethel",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 4.123105625617661,
 				"affiliations": [],
@@ -6923,7 +7025,7 @@
 			"properties": {
 				"name": "Stephens City",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 4.242640687119285,
 				"affiliations": [],
@@ -6983,7 +7085,7 @@
 			"properties": {
 				"name": "Lighthouse",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 4.358898943540674,
 				"affiliations": [],
@@ -7023,7 +7125,7 @@
 			"properties": {
 				"name": "Beldor",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 4.47213595499958,
 				"affiliations": [],
@@ -7083,7 +7185,7 @@
 			"properties": {
 				"name": "Garden City Bible Fellow.",
 				"begin": "1955",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 4.47213595499958,
 				"affiliations": [],
@@ -7223,7 +7325,7 @@
 			"properties": {
 				"name": "Salem (Mennonite)",
 				"begin": "2010",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 4.47213595499958,
 				"affiliations": [],
@@ -7283,7 +7385,7 @@
 			"properties": {
 				"name": "Arbor Hill",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 4.58257569495584,
 				"affiliations": [],
@@ -7303,7 +7405,7 @@
 			"properties": {
 				"name": "Brennemans",
 				"begin": "1905",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 4.58257569495584,
 				"affiliations": [],
@@ -7403,7 +7505,7 @@
 			"properties": {
 				"name": "Dayton DB",
 				"begin": "1980",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 4.69041575982343,
 				"affiliations": [],
@@ -7463,7 +7565,7 @@
 			"properties": {
 				"name": "New Song Anabpt. Fell.",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 4.69041575982343,
 				"affiliations": [],
@@ -7483,7 +7585,7 @@
 			"properties": {
 				"name": "Riverside",
 				"begin": "2013",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 4.69041575982343,
 				"affiliations": [],
@@ -7683,7 +7785,7 @@
 			"properties": {
 				"name": "Lambert",
 				"begin": "2013",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 4.898979485566356,
 				"affiliations": [],
@@ -7703,7 +7805,7 @@
 			"properties": {
 				"name": "Mathias",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 4.898979485566356,
 				"affiliations": [],
@@ -7763,7 +7865,7 @@
 			"properties": {
 				"name": "Parkway",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 4.898979485566356,
 				"affiliations": [],
@@ -7883,7 +7985,7 @@
 			"properties": {
 				"name": "Liberty",
 				"begin": "2017",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 5,
 				"affiliations": [],
@@ -8003,7 +8105,7 @@
 			"properties": {
 				"name": "Crossroads",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 5.0990195135927845,
 				"affiliations": [],
@@ -8023,7 +8125,7 @@
 			"properties": {
 				"name": "Flat Rock",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 5.0990195135927845,
 				"affiliations": [],
@@ -8123,7 +8225,7 @@
 			"properties": {
 				"name": "Selma",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 5.0990195135927845,
 				"affiliations": [],
@@ -8143,7 +8245,7 @@
 			"properties": {
 				"name": "Timberville (Mennonite)",
 				"begin": "2015",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 5.0990195135927845,
 				"affiliations": [],
@@ -8243,7 +8345,7 @@
 			"properties": {
 				"name": "Trout Run or Sugar Grove",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 5.196152422706632,
 				"affiliations": [],
@@ -8303,7 +8405,7 @@
 			"properties": {
 				"name": "Saint Paul",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 5.291502622129181,
 				"affiliations": [],
@@ -8383,7 +8485,7 @@
 			"properties": {
 				"name": "North Fork",
 				"begin": "2019",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 5.385164807134504,
 				"affiliations": [],
@@ -8483,7 +8585,7 @@
 			"properties": {
 				"name": "Bethlehem (Harrisonburg)",
 				"begin": "1999",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 5.477225575051661,
 				"affiliations": [],
@@ -8603,7 +8705,7 @@
 			"properties": {
 				"name": "Winchester (Mennonite)",
 				"begin": "2015",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 5.477225575051661,
 				"affiliations": [],
@@ -8683,7 +8785,7 @@
 			"properties": {
 				"name": "Masons Cove",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 5.5677643628300215,
 				"affiliations": [],
@@ -8969,7 +9071,7 @@
 			"properties": {
 				"name": "Oakvale",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 5.656854249492381,
 				"affiliations": [],
@@ -8989,7 +9091,7 @@
 			"properties": {
 				"name": "Palmyra Fellowship",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 5.656854249492381,
 				"affiliations": [],
@@ -9074,7 +9176,7 @@
 			"properties": {
 				"name": "McGaheysville",
 				"begin": "2019",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 5.744562646538029,
 				"affiliations": [],
@@ -9094,7 +9196,7 @@
 			"properties": {
 				"name": "Strasburg",
 				"begin": "2019",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 5.744562646538029,
 				"affiliations": [],
@@ -9174,7 +9276,7 @@
 			"properties": {
 				"name": "Riner",
 				"begin": "1982",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 5.830951894845301,
 				"affiliations": [],
@@ -9234,7 +9336,7 @@
 			"properties": {
 				"name": "Bethel",
 				"begin": "2015",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 5.916079783099616,
 				"affiliations": [],
@@ -9334,7 +9436,7 @@
 			"properties": {
 				"name": "Pine Grove",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 5.916079783099616,
 				"affiliations": [],
@@ -9774,7 +9876,7 @@
 			"properties": {
 				"name": "McDowell",
 				"begin": "2019",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 6.082762530298219,
 				"affiliations": [],
@@ -9794,7 +9896,7 @@
 			"properties": {
 				"name": "Mount Bethel (Botetourt)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 6.082762530298219,
 				"affiliations": [],
@@ -9874,7 +9976,7 @@
 			"properties": {
 				"name": "Early Church",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 6.164414002968976,
 				"affiliations": [],
@@ -9934,7 +10036,7 @@
 			"properties": {
 				"name": "Staunton (Mennonite)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 6.164414002968976,
 				"affiliations": [],
@@ -9954,7 +10056,7 @@
 			"properties": {
 				"name": "Stonewall",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 6.164414002968976,
 				"affiliations": [],
@@ -9994,7 +10096,7 @@
 			"properties": {
 				"name": "Iglesia Cristiana Nueva Vida",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 6.244997998398398,
 				"affiliations": [],
@@ -10237,7 +10339,7 @@
 			"properties": {
 				"name": "Mt. Pleasant",
 				"begin": "2004",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 6.324555320336759,
 				"affiliations": [],
@@ -10297,7 +10399,7 @@
 			"properties": {
 				"name": "Christiansburg MF",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 6.4031242374328485,
 				"affiliations": [],
@@ -10457,7 +10559,7 @@
 			"properties": {
 				"name": "Gospel Hill",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 6.48074069840786,
 				"affiliations": [],
@@ -10700,7 +10802,9 @@
 				"end": "1974",
 				"denomination": 1,
 				"weight": 6.557438524302,
-				"affiliations": [],
+				"affiliations": [
+					"Brethren Church"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -10717,7 +10821,7 @@
 			"properties": {
 				"name": "Salem (Brethren)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 6.557438524302,
 				"affiliations": [],
@@ -10901,7 +11005,7 @@
 			"properties": {
 				"name": "Immanuel",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 6.708203932499369,
 				"affiliations": [],
@@ -11101,7 +11205,7 @@
 			"properties": {
 				"name": "Troutville Grace Bible",
 				"begin": "1982",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 6.782329983125268,
 				"affiliations": [],
@@ -11121,7 +11225,7 @@
 			"properties": {
 				"name": "Crest Hill Community",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 6.855654600401044,
 				"affiliations": [],
@@ -11221,7 +11325,7 @@
 			"properties": {
 				"name": "Windhaven",
 				"begin": "2017",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 6.855654600401044,
 				"affiliations": [],
@@ -11241,7 +11345,7 @@
 			"properties": {
 				"name": "Boones Mill",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 6.928203230275509,
 				"affiliations": [],
@@ -11261,7 +11365,7 @@
 			"properties": {
 				"name": "Burks Fork",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 6.928203230275509,
 				"affiliations": [],
@@ -11321,7 +11425,7 @@
 			"properties": {
 				"name": "Trinity",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 6.928203230275509,
 				"affiliations": [],
@@ -11341,7 +11445,7 @@
 			"properties": {
 				"name": "Crummet Run",
 				"begin": "2002",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7,
 				"affiliations": [],
@@ -11481,7 +11585,7 @@
 			"properties": {
 				"name": "Pleasant View (WV)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.0710678118654755,
 				"affiliations": [],
@@ -11581,7 +11685,7 @@
 			"properties": {
 				"name": "Mount Joy",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.14142842854285,
 				"affiliations": [],
@@ -11601,7 +11705,7 @@
 			"properties": {
 				"name": "Mt. Hermon",
 				"begin": "2019",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 7.14142842854285,
 				"affiliations": [],
@@ -11661,7 +11765,7 @@
 			"properties": {
 				"name": "Concord",
 				"begin": "2002",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.211102550927978,
 				"affiliations": [],
@@ -11701,7 +11805,7 @@
 			"properties": {
 				"name": "Gospel",
 				"begin": "1982",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.211102550927978,
 				"affiliations": [],
@@ -11721,7 +11825,7 @@
 			"properties": {
 				"name": "Hiner",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.211102550927978,
 				"affiliations": [],
@@ -11741,7 +11845,7 @@
 			"properties": {
 				"name": "Hiwassee",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.211102550927978,
 				"affiliations": [],
@@ -11805,7 +11909,7 @@
 			"properties": {
 				"name": "Smith Creek Fellowship",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.211102550927978,
 				"affiliations": [],
@@ -11825,7 +11929,7 @@
 			"properties": {
 				"name": "Bethesda",
 				"begin": "2019",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 7.280109889280518,
 				"affiliations": [],
@@ -11845,7 +11949,7 @@
 			"properties": {
 				"name": "Duncans Chapel",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.280109889280518,
 				"affiliations": [],
@@ -11905,7 +12009,7 @@
 			"properties": {
 				"name": "Rawley Springs",
 				"begin": "2019",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 7.280109889280518,
 				"affiliations": [],
@@ -11967,7 +12071,7 @@
 			"properties": {
 				"name": "Valley View",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 7.280109889280518,
 				"affiliations": [],
@@ -12067,7 +12171,7 @@
 			"properties": {
 				"name": "Stuarts Draft",
 				"begin": "2013",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 7.3484692283495345,
 				"affiliations": [],
@@ -12087,7 +12191,7 @@
 			"properties": {
 				"name": "Zion Hill",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 7.3484692283495345,
 				"affiliations": [],
@@ -12187,7 +12291,7 @@
 			"properties": {
 				"name": "Nineveh",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.416198487095663,
 				"affiliations": [],
@@ -12207,7 +12311,7 @@
 			"properties": {
 				"name": "Pine Grove - Pocohantas",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.416198487095663,
 				"affiliations": [],
@@ -12227,7 +12331,7 @@
 			"properties": {
 				"name": "Elk Run",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.483314773547883,
 				"affiliations": [],
@@ -12327,7 +12431,7 @@
 			"properties": {
 				"name": "White Rock",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.483314773547883,
 				"affiliations": [],
@@ -12427,7 +12531,7 @@
 			"properties": {
 				"name": "Cedar Grove-Ruckersville",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.615773105863909,
 				"affiliations": [
@@ -12449,7 +12553,7 @@
 			"properties": {
 				"name": "Lynside",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 7.615773105863909,
 				"affiliations": [],
@@ -12489,7 +12593,7 @@
 			"properties": {
 				"name": "Durbin",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.681145747868608,
 				"affiliations": [],
@@ -12652,7 +12756,9 @@
 				"end": "1979",
 				"denomination": 1,
 				"weight": 7.745966692414834,
-				"affiliations": [],
+				"affiliations": [
+					"Brethren Church"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -12669,7 +12775,7 @@
 			"properties": {
 				"name": "Saunders Grove",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.745966692414834,
 				"affiliations": [],
@@ -12729,7 +12835,7 @@
 			"properties": {
 				"name": "Island Creek",
 				"begin": "2015",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 7.810249675906654,
 				"affiliations": [],
@@ -12789,7 +12895,7 @@
 			"properties": {
 				"name": "Bethany (Franklin)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.874007874011811,
 				"affiliations": [],
@@ -12851,7 +12957,7 @@
 			"properties": {
 				"name": "Oak Hill (Powell's Fort)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.874007874011811,
 				"affiliations": [
@@ -12873,7 +12979,7 @@
 			"properties": {
 				"name": "Shiloh (Greene)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 7.874007874011811,
 				"affiliations": [
@@ -13115,7 +13221,7 @@
 			"properties": {
 				"name": "Mathias (BC)",
 				"begin": "2020",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8,
 				"affiliations": [],
@@ -13138,15 +13244,17 @@
 				"end": "1963",
 				"denomination": 1,
 				"weight": 8,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.433596,
-					38.950599
+					-78.41765641690061,
+					38.96012194595784
 				]
 			}
 		},
@@ -13178,15 +13286,17 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 8,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.652956,
-					38.766518
+					-78.60390101505077,
+					38.75580114442796
 				]
 			}
 		},
@@ -13317,7 +13427,7 @@
 			"properties": {
 				"name": "Hebron",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 8.12403840463596,
 				"affiliations": [],
@@ -13337,7 +13447,7 @@
 			"properties": {
 				"name": "Trinity (Luray)",
 				"begin": "1989",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.12403840463596,
 				"affiliations": [
@@ -13379,18 +13489,20 @@
 			"properties": {
 				"name": "Walkers Chapel",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.18535277187245,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.652956,
-					38.766518
+					-78.60390101505077,
+					38.75580114442796
 				]
 			}
 		},
@@ -13459,7 +13571,7 @@
 			"properties": {
 				"name": "Mt. Vernon",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 8.246211251235321,
 				"affiliations": [],
@@ -13501,7 +13613,7 @@
 			"properties": {
 				"name": "Bethel (Nelson)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.306623862918075,
 				"affiliations": [],
@@ -13727,7 +13839,7 @@
 			"properties": {
 				"name": "Shiloh (West Virginia)",
 				"begin": "1980",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.306623862918075,
 				"affiliations": [],
@@ -13809,7 +13921,7 @@
 			"properties": {
 				"name": "Melrose",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.366600265340756,
 				"affiliations": [],
@@ -14011,7 +14123,7 @@
 			"properties": {
 				"name": "Bethany (Briery Branch)",
 				"begin": "2004",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 8.48528137423857,
 				"affiliations": [],
@@ -14051,7 +14163,7 @@
 			"properties": {
 				"name": "Pulaski",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.48528137423857,
 				"affiliations": [],
@@ -14173,7 +14285,7 @@
 			"properties": {
 				"name": "Sangerville",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.54400374531753,
 				"affiliations": [],
@@ -14215,7 +14327,7 @@
 			"properties": {
 				"name": "Free Union",
 				"begin": "1989",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.602325267042627,
 				"affiliations": [
@@ -14257,7 +14369,7 @@
 			"properties": {
 				"name": "Meadow Mills",
 				"begin": "2002",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.602325267042627,
 				"affiliations": [],
@@ -14317,7 +14429,7 @@
 			"properties": {
 				"name": "South Mtn. Lake Comm.",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.602325267042627,
 				"affiliations": [],
@@ -14377,7 +14489,7 @@
 			"properties": {
 				"name": "Grottoes",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.660254037844387,
 				"affiliations": [],
@@ -14459,7 +14571,7 @@
 			"properties": {
 				"name": "Vinton",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.660254037844387,
 				"affiliations": [],
@@ -14479,7 +14591,7 @@
 			"properties": {
 				"name": "Blue Ridge",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.717797887081348,
 				"affiliations": [],
@@ -14519,7 +14631,7 @@
 			"properties": {
 				"name": "Jones Chapel",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.717797887081348,
 				"affiliations": [],
@@ -14539,7 +14651,7 @@
 			"properties": {
 				"name": "Pike",
 				"begin": "2019",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 8.717797887081348,
 				"affiliations": [],
@@ -14601,7 +14713,7 @@
 			"properties": {
 				"name": "Wills Ridge",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 8.717797887081348,
 				"affiliations": [],
@@ -14681,7 +14793,7 @@
 			"properties": {
 				"name": "Knights Chapel",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.774964387392123,
 				"affiliations": [
@@ -14726,15 +14838,17 @@
 				"end": "2001",
 				"denomination": 1,
 				"weight": 8.774964387392123,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.433596,
-					38.950599
+					-78.41765641690061,
+					38.96012194595784
 				]
 			}
 		},
@@ -14823,7 +14937,7 @@
 			"properties": {
 				"name": "Oronoco",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.831760866327848,
 				"affiliations": [],
@@ -14843,7 +14957,7 @@
 			"properties": {
 				"name": "Blue Ridge (Winchester)",
 				"begin": "2020",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.888194417315589,
 				"affiliations": [],
@@ -14863,7 +14977,7 @@
 			"properties": {
 				"name": "Maurertown (Shiloh)",
 				"begin": "2017",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.888194417315589,
 				"affiliations": [],
@@ -14943,7 +15057,7 @@
 			"properties": {
 				"name": "Manantial de Vida",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 8.94427190999916,
 				"affiliations": [],
@@ -14963,7 +15077,7 @@
 			"properties": {
 				"name": "Middle River",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.94427190999916,
 				"affiliations": [],
@@ -15045,7 +15159,7 @@
 			"properties": {
 				"name": "Red Hill",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 8.94427190999916,
 				"affiliations": [],
@@ -15068,15 +15182,17 @@
 				"end": "1971",
 				"denomination": 1,
 				"weight": 8.94427190999916,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.433596,
-					38.950599
+					-78.41765641690061,
+					38.96012194595784
 				]
 			}
 		},
@@ -15145,7 +15261,7 @@
 			"properties": {
 				"name": "Madison",
 				"begin": "2000",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9,
 				"affiliations": [
@@ -15167,7 +15283,7 @@
 			"properties": {
 				"name": "Pleasant View (VA)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9,
 				"affiliations": [
@@ -15269,7 +15385,7 @@
 			"properties": {
 				"name": "Cedar Run",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.055385138137417,
 				"affiliations": [],
@@ -15289,7 +15405,7 @@
 			"properties": {
 				"name": "Friends Run",
 				"begin": "2002",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.055385138137417,
 				"affiliations": [],
@@ -15329,7 +15445,7 @@
 			"properties": {
 				"name": "Monte Vista",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.055385138137417,
 				"affiliations": [],
@@ -15389,7 +15505,7 @@
 			"properties": {
 				"name": "Cedar Grove - Brandywine",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.1104335791443,
 				"affiliations": [],
@@ -15431,7 +15547,7 @@
 			"properties": {
 				"name": "Clearbrook",
 				"begin": "1982",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.1104335791443,
 				"affiliations": [],
@@ -15573,7 +15689,7 @@
 			"properties": {
 				"name": "Daleville",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.219544457292887,
 				"affiliations": [],
@@ -15613,7 +15729,7 @@
 			"properties": {
 				"name": "Laurel Branch",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.219544457292887,
 				"affiliations": [],
@@ -15633,7 +15749,7 @@
 			"properties": {
 				"name": "Morning View",
 				"begin": "2012",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 9.219544457292887,
 				"affiliations": [],
@@ -15653,7 +15769,7 @@
 			"properties": {
 				"name": "Mt. Clinton",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 9.219544457292887,
 				"affiliations": [],
@@ -15902,7 +16018,9 @@
 				"end": "1998",
 				"denomination": 1,
 				"weight": 9.38083151964686,
-				"affiliations": [],
+				"affiliations": [
+					"Brethren Church"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -15999,7 +16117,7 @@
 			"properties": {
 				"name": "Waynesboro (Mennonite)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 9.433981132056603,
 				"affiliations": [],
@@ -16124,15 +16242,17 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 9.486832980505138,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.433596,
-					38.950599
+					-78.41765641690061,
+					38.96012194595784
 				]
 			}
 		},
@@ -16141,7 +16261,7 @@
 			"properties": {
 				"name": "Shalom",
 				"begin": "2015",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 9.486832980505138,
 				"affiliations": [],
@@ -16181,7 +16301,7 @@
 			"properties": {
 				"name": "Washington Heights",
 				"begin": "1982",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.486832980505138,
 				"affiliations": [],
@@ -16221,7 +16341,7 @@
 			"properties": {
 				"name": "Mountain View Fellowship",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.539392014169456,
 				"affiliations": [],
@@ -16361,7 +16481,7 @@
 			"properties": {
 				"name": "Pleasant Hill (Augusta)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.695359714832659,
 				"affiliations": [],
@@ -16463,18 +16583,20 @@
 			"properties": {
 				"name": "Round Hill",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.746794344808963,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.433596,
-					38.950599
+					-78.41765641690061,
+					38.96012194595784
 				]
 			}
 		},
@@ -16523,7 +16645,7 @@
 			"properties": {
 				"name": "Oak Hill (Fayette Co.)",
 				"begin": "2017",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.797958971132712,
 				"affiliations": [],
@@ -16563,7 +16685,7 @@
 			"properties": {
 				"name": "Crab Orchard",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.848857801796104,
 				"affiliations": [],
@@ -16583,7 +16705,7 @@
 			"properties": {
 				"name": "Mount Olivet",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.848857801796104,
 				"affiliations": [],
@@ -16666,15 +16788,17 @@
 				"end": "2001",
 				"denomination": 1,
 				"weight": 9.848857801796104,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.652956,
-					38.766518
+					-78.60390101505077,
+					38.75580114442796
 				]
 			}
 		},
@@ -16785,7 +16909,7 @@
 			"properties": {
 				"name": "Poages Mill",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.899494936611665,
 				"affiliations": [],
@@ -16805,7 +16929,7 @@
 			"properties": {
 				"name": "Evergreen",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.9498743710662,
 				"affiliations": [
@@ -16827,7 +16951,7 @@
 			"properties": {
 				"name": "Fairview-Mt. Clinton",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.9498743710662,
 				"affiliations": [],
@@ -16847,7 +16971,7 @@
 			"properties": {
 				"name": "New Dale",
 				"begin": "2002",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 9.9498743710662,
 				"affiliations": [],
@@ -16927,7 +17051,7 @@
 			"properties": {
 				"name": "Fairlawn",
 				"begin": "1947",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10,
 				"affiliations": [],
@@ -16987,7 +17111,7 @@
 			"properties": {
 				"name": "Greenmonte Fellowship",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 10,
 				"affiliations": [],
@@ -17007,7 +17131,7 @@
 			"properties": {
 				"name": "Lloyd Wenger O.O.",
 				"begin": "2015",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 10,
 				"affiliations": [],
@@ -17027,7 +17151,7 @@
 			"properties": {
 				"name": "Mount Zion-Linville",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10,
 				"affiliations": [],
@@ -17087,7 +17211,7 @@
 			"properties": {
 				"name": "North Fork Fellowship",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10,
 				"affiliations": [],
@@ -17290,15 +17414,17 @@
 				"end": "1998",
 				"denomination": 1,
 				"weight": 10.04987562112089,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.652956,
-					38.766518
+					-78.60390101505077,
+					38.75580114442796
 				]
 			}
 		},
@@ -17327,7 +17453,7 @@
 			"properties": {
 				"name": "Little River",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.099504938362077,
 				"affiliations": [],
@@ -17367,7 +17493,7 @@
 			"properties": {
 				"name": "Rileyville",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.099504938362077,
 				"affiliations": [
@@ -17389,7 +17515,7 @@
 			"properties": {
 				"name": "Moscow",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.14889156509222,
 				"affiliations": [],
@@ -17409,7 +17535,7 @@
 			"properties": {
 				"name": "Mount Zion",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.14889156509222,
 				"affiliations": [
@@ -17451,10 +17577,12 @@
 			"properties": {
 				"name": "Saint Luke",
 				"begin": "2017",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.14889156509222,
-				"affiliations": [],
+				"affiliations": [
+					"Brethren Church"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -17491,7 +17619,7 @@
 			"properties": {
 				"name": "Bassett",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.198039027185569,
 				"affiliations": [],
@@ -17693,7 +17821,7 @@
 			"properties": {
 				"name": "Cedar Bluff Community",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.246950765959598,
 				"affiliations": [],
@@ -17733,7 +17861,7 @@
 			"properties": {
 				"name": "Luray",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.246950765959598,
 				"affiliations": [
@@ -17815,7 +17943,7 @@
 			"properties": {
 				"name": "Peake",
 				"begin": "2019",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 10.246950765959598,
 				"affiliations": [],
@@ -17875,7 +18003,7 @@
 			"properties": {
 				"name": "Eastside",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 10.295630140987,
 				"affiliations": [],
@@ -17915,7 +18043,7 @@
 			"properties": {
 				"name": "Mount Vernon",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.295630140987,
 				"affiliations": [],
@@ -17935,7 +18063,7 @@
 			"properties": {
 				"name": "Newport",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.295630140987,
 				"affiliations": [
@@ -17957,7 +18085,7 @@
 			"properties": {
 				"name": "Oak Grove South",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.295630140987,
 				"affiliations": [],
@@ -17977,7 +18105,7 @@
 			"properties": {
 				"name": "Jeters Chapel",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.344080432788601,
 				"affiliations": [],
@@ -18057,7 +18185,7 @@
 			"properties": {
 				"name": "Trissels",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 10.344080432788601,
 				"affiliations": [],
@@ -18080,15 +18208,17 @@
 				"end": "1979",
 				"denomination": 1,
 				"weight": 10.344080432788601,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.652956,
-					38.766518
+					-78.60390101505077,
+					38.75580114442796
 				]
 			}
 		},
@@ -18299,7 +18429,7 @@
 			"properties": {
 				"name": "Fairview-Endless Caverns",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.488088481701515,
 				"affiliations": [],
@@ -18361,7 +18491,7 @@
 			"properties": {
 				"name": "Red Oak Grove",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.488088481701515,
 				"affiliations": [],
@@ -18503,7 +18633,7 @@
 			"properties": {
 				"name": "Fairview-Rocky Mount",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.583005244258363,
 				"affiliations": [],
@@ -18605,7 +18735,7 @@
 			"properties": {
 				"name": "Stony Creek",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.63014581273465,
 				"affiliations": [],
@@ -18747,7 +18877,7 @@
 			"properties": {
 				"name": "Damascus",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.723805294763608,
 				"affiliations": [],
@@ -18927,7 +19057,7 @@
 			"properties": {
 				"name": "Sunrise",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.770329614269007,
 				"affiliations": [
@@ -19009,7 +19139,7 @@
 			"properties": {
 				"name": "Bethlehem (Franklin)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.862780491200215,
 				"affiliations": [],
@@ -19049,7 +19179,7 @@
 			"properties": {
 				"name": "Garbers",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 10.862780491200215,
 				"affiliations": [],
@@ -19231,7 +19361,7 @@
 			"properties": {
 				"name": "Green Hill",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 11.045361017187261,
 				"affiliations": [],
@@ -19433,7 +19563,7 @@
 			"properties": {
 				"name": "New Hope (WV)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 11.180339887498949,
 				"affiliations": [],
@@ -19595,7 +19725,7 @@
 			"properties": {
 				"name": "Springdale",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 11.224972160321824,
 				"affiliations": [],
@@ -19795,7 +19925,7 @@
 			"properties": {
 				"name": "Pine Ridge",
 				"begin": "1989",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 11.313708498984761,
 				"affiliations": [
@@ -19820,7 +19950,9 @@
 				"end": "2016",
 				"denomination": 1,
 				"weight": 11.313708498984761,
-				"affiliations": [],
+				"affiliations": [
+					"Brethren Church"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -19857,7 +19989,7 @@
 			"properties": {
 				"name": "Waterbrook",
 				"begin": "1999",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 11.313708498984761,
 				"affiliations": [],
@@ -19937,7 +20069,7 @@
 			"properties": {
 				"name": "Ridgeway",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 11.40175425099138,
 				"affiliations": [],
@@ -20077,7 +20209,7 @@
 			"properties": {
 				"name": "Bethel (Broadway)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 11.489125293076057,
 				"affiliations": [],
@@ -20117,7 +20249,7 @@
 			"properties": {
 				"name": "Community Mission",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 11.489125293076057,
 				"affiliations": [
@@ -20259,7 +20391,7 @@
 			"properties": {
 				"name": "Forest Chapel",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 11.61895003862225,
 				"affiliations": [],
@@ -20319,7 +20451,7 @@
 			"properties": {
 				"name": "Pleasant Valley Menn. Fell.",
 				"begin": "2015",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 11.61895003862225,
 				"affiliations": [],
@@ -20339,7 +20471,7 @@
 			"properties": {
 				"name": "Boones Chapel (Franklin)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 11.661903789690601,
 				"affiliations": [],
@@ -20379,7 +20511,7 @@
 			"properties": {
 				"name": "Summit",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 11.661903789690601,
 				"affiliations": [],
@@ -20443,7 +20575,6 @@
 				"denomination": 1,
 				"weight": 11.74734012447073,
 				"affiliations": [
-					"Woodstock",
 					"Church of the Brethren"
 				],
 				"tags": [],
@@ -20482,7 +20613,7 @@
 			"properties": {
 				"name": "Central, Roanoke",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 11.789826122551595,
 				"affiliations": [],
@@ -20502,7 +20633,7 @@
 			"properties": {
 				"name": "Chimney Run",
 				"begin": "2002",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 11.789826122551595,
 				"affiliations": [],
@@ -20584,7 +20715,7 @@
 			"properties": {
 				"name": "Pleasant Valley (Floyd)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 11.832159566199232,
 				"affiliations": [],
@@ -20686,7 +20817,7 @@
 			"properties": {
 				"name": "Waynesboro (Brethren)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 11.874342087037917,
 				"affiliations": [],
@@ -21112,7 +21243,7 @@
 			"properties": {
 				"name": "Mount Union",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 12.206555615733702,
 				"affiliations": [],
@@ -21155,6 +21286,29 @@
 			"properties": {
 				"name": "Antioch (Woodstock)",
 				"begin": "1975",
+				"end": "1981",
+				"denomination": 1,
+				"weight": 12.24744871391589,
+				"affiliations": [
+					"Woodstock",
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.54967050155707,
+					38.87463262170116
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antioch (Woodstock)",
+				"begin": "1982",
 				"end": "1998",
 				"denomination": 1,
 				"weight": 12.24744871391589,
@@ -21237,7 +21391,7 @@
 			"properties": {
 				"name": "Troutville",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 12.24744871391589,
 				"affiliations": [],
@@ -21317,7 +21471,7 @@
 			"properties": {
 				"name": "Oak Hill (Franklin)",
 				"begin": "1980",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 12.288205727444508,
 				"affiliations": [],
@@ -21357,7 +21511,7 @@
 			"properties": {
 				"name": "Zion",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 12.288205727444508,
 				"affiliations": [],
@@ -21377,7 +21531,7 @@
 			"properties": {
 				"name": "Crab Run",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 12.328828005937952,
 				"affiliations": [],
@@ -21479,7 +21633,7 @@
 			"properties": {
 				"name": "Collinsville",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 12.36931687685298,
 				"affiliations": [],
@@ -21599,7 +21753,7 @@
 			"properties": {
 				"name": "Mount Bethel (Rockingham)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 12.449899597988733,
 				"affiliations": [],
@@ -21679,7 +21833,7 @@
 			"properties": {
 				"name": "Leakes Chapel",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 12.489995996796797,
 				"affiliations": [
@@ -21741,7 +21895,7 @@
 			"properties": {
 				"name": "Stone, Buena Vista",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 12.489995996796797,
 				"affiliations": [],
@@ -22005,7 +22159,7 @@
 			"properties": {
 				"name": "Spruce Run",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 12.609520212918492,
 				"affiliations": [],
@@ -22247,7 +22401,7 @@
 			"properties": {
 				"name": "Mount Hermon",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 12.727922061357855,
 				"affiliations": [],
@@ -22267,7 +22421,7 @@
 			"properties": {
 				"name": "Smith River",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 12.727922061357855,
 				"affiliations": [],
@@ -22449,7 +22603,7 @@
 			"properties": {
 				"name": "Bank",
 				"begin": "2019",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 12.884098726725126,
 				"affiliations": [],
@@ -22675,7 +22829,6 @@
 				"denomination": 1,
 				"weight": 13.038404810405298,
 				"affiliations": [
-					"Woodstock",
 					"Church of the Brethren"
 				],
 				"tags": [],
@@ -22714,7 +22867,7 @@
 			"properties": {
 				"name": "Dayton (Mennonite)",
 				"begin": "2015",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 13.038404810405298,
 				"affiliations": [],
@@ -22794,7 +22947,7 @@
 			"properties": {
 				"name": "Grace Menn. Fellow.",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 13.114877048604,
 				"affiliations": [],
@@ -23016,7 +23169,7 @@
 			"properties": {
 				"name": "Lebanon",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 13.2664991614216,
 				"affiliations": [],
@@ -23076,7 +23229,7 @@
 			"properties": {
 				"name": "First, Roanoke",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 13.341664064126334,
 				"affiliations": [],
@@ -23156,7 +23309,7 @@
 			"properties": {
 				"name": "Beaver Creek",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 13.379088160259652,
 				"affiliations": [],
@@ -23440,7 +23593,7 @@
 			"properties": {
 				"name": "Linville Creek",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 13.638181696985855,
 				"affiliations": [],
@@ -23460,7 +23613,7 @@
 			"properties": {
 				"name": "Rocky Mount",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 13.638181696985855,
 				"affiliations": [],
@@ -23520,7 +23673,7 @@
 			"properties": {
 				"name": "Patterson Memorial",
 				"begin": "1982",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 13.711309200802088,
 				"affiliations": [],
@@ -23540,7 +23693,7 @@
 			"properties": {
 				"name": "Ninth Street, Roanoke",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 13.74772708486752,
 				"affiliations": [],
@@ -23620,11 +23773,33 @@
 			"properties": {
 				"name": "Columbia Furnace",
 				"begin": "1975",
-				"end": "1984",
+				"end": "1981",
 				"denomination": 1,
 				"weight": 13.784048752090222,
 				"affiliations": [
 					"Woodstock",
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.62184456717176,
+					38.87849177459324
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Columbia Furnace",
+				"begin": "1982",
+				"end": "1984",
+				"denomination": 1,
+				"weight": 13.784048752090222,
+				"affiliations": [
 					"Church of the Brethren"
 				],
 				"tags": [],
@@ -23749,7 +23924,7 @@
 			"properties": {
 				"name": "Christiansburg",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 13.892443989449804,
 				"affiliations": [],
@@ -23769,7 +23944,7 @@
 			"properties": {
 				"name": "Hollins Road, Roanoke",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 13.92838827718412,
 				"affiliations": [],
@@ -23897,7 +24072,7 @@
 			"properties": {
 				"name": "Charlottesville",
 				"begin": "1995",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 14.106735979665885,
 				"affiliations": [
@@ -23999,7 +24174,7 @@
 			"properties": {
 				"name": "Covington",
 				"begin": "1982",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 14.142135623730951,
 				"affiliations": [],
@@ -24039,7 +24214,7 @@
 			"properties": {
 				"name": "New Hope (VA)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 14.142135623730951,
 				"affiliations": [],
@@ -24099,18 +24274,43 @@
 			"properties": {
 				"name": "Valley Pike",
 				"begin": "1956",
-				"end": "1974",
+				"end": "1962",
 				"denomination": 1,
 				"weight": 14.142135623730951,
-				"affiliations": [],
+				"affiliations": [
+					"Woodstock",
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.47218,
-					38.917833
+					-78.47003423428752,
+					38.91784967465673
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Valley Pike",
+				"begin": "1963",
+				"end": "1974",
+				"denomination": 1,
+				"weight": 14.142135623730951,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.47003423428752,
+					38.91784967465673
 				]
 			}
 		},
@@ -24179,7 +24379,7 @@
 			"properties": {
 				"name": "Blue Ridge Chapel",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 14.212670403551895,
 				"affiliations": [],
@@ -24241,7 +24441,7 @@
 			"properties": {
 				"name": "Peters Creek",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 14.2828568570857,
 				"affiliations": [],
@@ -24301,7 +24501,7 @@
 			"properties": {
 				"name": "Cloverdale",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 14.317821063276353,
 				"affiliations": [],
@@ -24361,7 +24561,7 @@
 			"properties": {
 				"name": "Mountain View",
 				"begin": "2013",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 14.38749456993816,
 				"affiliations": [],
@@ -24441,7 +24641,7 @@
 			"properties": {
 				"name": "Calvary (Mennonite)",
 				"begin": "2019",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 14.45683229480096,
 				"affiliations": [],
@@ -24541,7 +24741,7 @@
 			"properties": {
 				"name": "Bethel (Keezletown)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 14.52583904633395,
 				"affiliations": [],
@@ -24661,18 +24861,20 @@
 			"properties": {
 				"name": "Valley Pike",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 14.594519519326424,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.47218,
-					38.917833
+					-78.47003423428752,
+					38.91784967465673
 				]
 			}
 		},
@@ -24681,7 +24883,7 @@
 			"properties": {
 				"name": "Coulson",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 14.628738838327793,
 				"affiliations": [],
@@ -24741,7 +24943,7 @@
 			"properties": {
 				"name": "Beaver Creek (Floyd)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 14.66287829861518,
 				"affiliations": [],
@@ -24761,7 +24963,7 @@
 			"properties": {
 				"name": "Calvary (Brethren)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 14.66287829861518,
 				"affiliations": [],
@@ -24841,7 +25043,7 @@
 			"properties": {
 				"name": "Dayton (Brethren)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 14.730919862656235,
 				"affiliations": [],
@@ -24881,7 +25083,7 @@
 			"properties": {
 				"name": "Emmanuel",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 14.832396974191326,
 				"affiliations": [],
@@ -24921,7 +25123,7 @@
 			"properties": {
 				"name": "Timberville (Brethren)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 14.832396974191326,
 				"affiliations": [],
@@ -25187,7 +25389,7 @@
 			"properties": {
 				"name": "Germantown Brick",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 15.132745950421556,
 				"affiliations": [],
@@ -25373,7 +25575,7 @@
 			"properties": {
 				"name": "Columbia Furnace",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 15.394804318340652,
 				"affiliations": [
@@ -25535,7 +25737,7 @@
 			"properties": {
 				"name": "Staunton (Brethren)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 15.459624833740307,
 				"affiliations": [],
@@ -25658,15 +25860,17 @@
 				"end": "1979",
 				"denomination": 1,
 				"weight": 15.684387141358123,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.47218,
-					38.917833
+					-78.47003423428752,
+					38.91784967465673
 				]
 			}
 		},
@@ -25715,7 +25919,7 @@
 			"properties": {
 				"name": "Williamson Road",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 15.811388300841896,
 				"affiliations": [],
@@ -25778,15 +25982,17 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 15.905973720586866,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.47218,
-					38.917833
+					-78.47003423428752,
+					38.91784967465673
 				]
 			}
 		},
@@ -25866,15 +26072,17 @@
 				"end": "1998",
 				"denomination": 1,
 				"weight": 16.0312195418814,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.47218,
-					38.917833
+					-78.47003423428752,
+					38.91784967465673
 				]
 			}
 		},
@@ -25943,7 +26151,7 @@
 			"properties": {
 				"name": "Greenmount",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 16.15549442140351,
 				"affiliations": [],
@@ -26083,7 +26291,7 @@
 			"properties": {
 				"name": "Front Royal",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 16.278820596099706,
 				"affiliations": [],
@@ -26103,7 +26311,7 @@
 			"properties": {
 				"name": "Montezuma",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 16.278820596099706,
 				"affiliations": [],
@@ -26287,7 +26495,7 @@
 			"properties": {
 				"name": "Community",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 16.46207763315433,
 				"affiliations": [],
@@ -26469,7 +26677,7 @@
 			"properties": {
 				"name": "Mathias (COB)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 16.703293088490067,
 				"affiliations": [],
@@ -26591,7 +26799,7 @@
 			"properties": {
 				"name": "Ghent (First Brethren)",
 				"begin": "1982",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 16.911534525287763,
 				"affiliations": [],
@@ -26797,7 +27005,7 @@
 			"properties": {
 				"name": "Roanoke Summerdean",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 17.204650534085253,
 				"affiliations": [],
@@ -26961,7 +27169,7 @@
 			"properties": {
 				"name": "Barren Ridge",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 17.349351572897472,
 				"affiliations": [],
@@ -27071,7 +27279,7 @@
 			"properties": {
 				"name": "Henry Fork",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 17.549928774784245,
 				"affiliations": [],
@@ -27091,7 +27299,7 @@
 			"properties": {
 				"name": "Antioch (Woodstock)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 17.578395831246947,
 				"affiliations": [
@@ -27153,7 +27361,7 @@
 			"properties": {
 				"name": "Original Old Order Menn.",
 				"begin": "2015",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 17.663521732655695,
 				"affiliations": [],
@@ -27213,7 +27421,7 @@
 			"properties": {
 				"name": "Weavers",
 				"begin": "2007",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 17.74823934929885,
 				"affiliations": [
@@ -27501,7 +27709,7 @@
 			"properties": {
 				"name": "Cline-Showalter",
 				"begin": "2015",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 18.110770276274835,
 				"affiliations": [],
@@ -27541,7 +27749,7 @@
 			"properties": {
 				"name": "Antioch (Franklin)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 18.138357147217054,
 				"affiliations": [],
@@ -27581,7 +27789,7 @@
 			"properties": {
 				"name": "Topeco",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 18.138357147217054,
 				"affiliations": [],
@@ -27601,7 +27809,7 @@
 			"properties": {
 				"name": "Winchester (Brethren)",
 				"begin": "1982",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 18.16590212458495,
 				"affiliations": [],
@@ -27641,7 +27849,7 @@
 			"properties": {
 				"name": "Copper Hill",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 18.275666882497067,
 				"affiliations": [],
@@ -27803,7 +28011,7 @@
 			"properties": {
 				"name": "First, Harrisonburg",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 18.601075237738275,
 				"affiliations": [],
@@ -27823,7 +28031,7 @@
 			"properties": {
 				"name": "Oak Grove, Roanoke",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 18.601075237738275,
 				"affiliations": [],
@@ -27963,7 +28171,7 @@
 			"properties": {
 				"name": "Cooks Creek at Garbers",
 				"begin": "1950",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 18.734993995195193,
 				"affiliations": [],
@@ -28143,33 +28351,11 @@
 			"properties": {
 				"name": "Antioch (Woodstock)",
 				"begin": "1950",
-				"end": "1962",
-				"denomination": 1,
-				"weight": 19.157244060668017,
-				"affiliations": [
-					"Woodstock",
-					"Church of the Brethren"
-				],
-				"tags": [],
-				"photo": ""
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-78.54967050155707,
-					38.87463262170116
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "Antioch (Woodstock)",
-				"begin": "1963",
 				"end": "1974",
 				"denomination": 1,
 				"weight": 19.157244060668017,
 				"affiliations": [
+					"Woodstock",
 					"Church of the Brethren"
 				],
 				"tags": [],
@@ -28208,7 +28394,7 @@
 			"properties": {
 				"name": "Mountain Grove",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 19.235384061671343,
 				"affiliations": [],
@@ -28288,7 +28474,7 @@
 			"properties": {
 				"name": "Park View",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 19.339079605813716,
 				"affiliations": [],
@@ -28348,7 +28534,7 @@
 			"properties": {
 				"name": "Wakemans Grove",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 19.390719429665317,
 				"affiliations": [
@@ -28550,7 +28736,7 @@
 			"properties": {
 				"name": "White Hill",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 19.77371993328519,
 				"affiliations": [],
@@ -28734,7 +28920,7 @@
 			"properties": {
 				"name": "Mill Creek",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 20.149441679609886,
 				"affiliations": [],
@@ -28754,7 +28940,7 @@
 			"properties": {
 				"name": "Pleasant Valley (Augusta)",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 20.223748416156685,
 				"affiliations": [],
@@ -28774,7 +28960,7 @@
 			"properties": {
 				"name": "Briery Branch",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 20.248456731316587,
 				"affiliations": [],
@@ -29034,7 +29220,7 @@
 			"properties": {
 				"name": "Lindale",
 				"begin": "2013",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 21,
 				"affiliations": [],
@@ -29436,7 +29622,7 @@
 			"properties": {
 				"name": "Harrisonburg",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 2,
 				"weight": 23.748684174075834,
 				"affiliations": [],
@@ -29456,7 +29642,7 @@
 			"properties": {
 				"name": "Bridgewater",
 				"begin": "2018",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 24,
 				"affiliations": [],
@@ -29676,7 +29862,7 @@
 			"properties": {
 				"name": "Mount Olive",
 				"begin": "2017",
-				"end": "2021",
+				"end": "2022",
 				"denomination": 1,
 				"weight": 25.942243542145693,
 				"affiliations": [],
