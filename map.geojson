@@ -75,15 +75,17 @@
 				"end": "1946",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Staunton (Brethren)"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.14699,
-					38.104368
+					-79.14460819999667,
+					38.10691753759992
 				]
 			}
 		},
@@ -112,18 +114,64 @@
 			"properties": {
 				"name": "Barren Ridge",
 				"begin": "1856",
-				"end": "1924",
+				"end": "1864",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Middle River"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.945714,
-					38.160264
+					-78.94520974628664,
+					38.15949630611275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Barren Ridge",
+				"begin": "1865",
+				"end": "1907",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"German Baptist Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.94520974628664,
+					38.15949630611275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Barren Ridge",
+				"begin": "1908",
+				"end": "1924",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.94520974628664,
+					38.15949630611275
 				]
 			}
 		},
@@ -604,7 +652,9 @@
 				"end": "1952",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Waynesboro (Brethren)"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -740,19 +790,23 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Calvary (Brethren)",
-				"begin": "1894",
+				"begin": "1920",
 				"end": "1955",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Salem (Brethren)",
+					"Woodstock",
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.160516,
-					39.148532
+					-78.16170690245295,
+					39.14959697500529
 				]
 			}
 		},
@@ -813,6 +867,52 @@
 				"coordinates": [
 					-79.24476,
 					38.62484
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Cedar Grove - Mt. Jackson",
+				"begin": "1900",
+				"end": "1907",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Flat Rock",
+					"German Baptist Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.64744277015107,
+					38.69412079433302
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Cedar Grove - Mt. Jackson",
+				"begin": "1908",
+				"end": "1979",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Flat Rock",
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.64744277015107,
+					38.69412079433302
 				]
 			}
 		},
@@ -1751,10 +1851,34 @@
 			"properties": {
 				"name": "Flat Rock",
 				"begin": "1782",
+				"end": "1907",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"German Baptist Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.735883,
+					38.703052
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Flat Rock",
+				"begin": "1908",
 				"end": "1924",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -1876,15 +2000,18 @@
 				"end": "1946",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Mount Zion",
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.198128,
-					38.93402
+					-78.1968298124239,
+					38.93414516407209
 				]
 			}
 		},
@@ -3030,7 +3157,9 @@
 				"end": "1958",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Brethren Church"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -3999,18 +4128,66 @@
 			"properties": {
 				"name": "Palmyra Fellowship",
 				"begin": "1890",
-				"end": "1998",
+				"end": "1907",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Flat Rock",
+					"German Baptist Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.5664,
-					38.816593
+					-78.57396327280347,
+					38.80052920924041
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Palmyra Fellowship",
+				"begin": "1908",
+				"end": "1979",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Flat Rock",
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.57396327280347,
+					38.80052920924041
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Palmyra Fellowship",
+				"begin": "1980",
+				"end": "1998",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.57396327280347,
+					38.80052920924041
 				]
 			}
 		},
@@ -4836,18 +5013,44 @@
 			"properties": {
 				"name": "Salem (Brethren)",
 				"begin": "1858",
-				"end": "1924",
+				"end": "1907",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Woodstock",
+					"German Baptist Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.231074,
-					39.057583
+					-78.23022642348187,
+					39.05719974875619
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Salem (Brethren)",
+				"begin": "1908",
+				"end": "1924",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Woodstock",
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.23022642348187,
+					39.05719974875619
 				]
 			}
 		},
@@ -5187,18 +5390,44 @@
 			"properties": {
 				"name": "Stony Creek",
 				"begin": "1894",
-				"end": "1974",
+				"end": "1907",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Flat Rock",
+					"German Baptist Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.7502,
-					38.830318
+					-78.75208827675448,
+					38.83029290608493
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Stony Creek",
+				"begin": "1908",
+				"end": "1974",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Flat Rock",
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.75208827675448,
+					38.83029290608493
 				]
 			}
 		},
@@ -5557,11 +5786,35 @@
 			"properties": {
 				"name": "Wakemans Grove",
 				"begin": "1901",
+				"end": "1907",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Flat Rock",
+					"German Baptist Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.6189492582128,
+					38.84551502651718
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Wakemans Grove",
+				"begin": "1908",
 				"end": "1909",
 				"denomination": 1,
 				"weight": 0,
 				"affiliations": [
-					"Flat Rock"
+					"Flat Rock",
+					"Church of the Brethren"
 				],
 				"tags": [],
 				"photo": ""
@@ -7388,15 +7641,17 @@
 				"end": "2022",
 				"denomination": 1,
 				"weight": 4.58257569495584,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.14699,
-					38.104368
+					-79.14460819999667,
+					38.10691753759992
 				]
 			}
 		},
@@ -8128,7 +8383,9 @@
 				"end": "2022",
 				"denomination": 1,
 				"weight": 5.0990195135927845,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -8648,15 +8905,17 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 5.477225575051661,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.5664,
-					38.816593
+					-78.57396327280347,
+					38.80052920924041
 				]
 			}
 		},
@@ -9094,15 +9353,17 @@
 				"end": "2022",
 				"denomination": 1,
 				"weight": 5.656854249492381,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.5664,
-					38.816593
+					-78.57396327280347,
+					38.80052920924041
 				]
 			}
 		},
@@ -9308,6 +9569,28 @@
 				"coordinates": [
 					-78.223788,
 					39.077257
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Arbor Hill",
+				"begin": "2000",
+				"end": "2001",
+				"denomination": 1,
+				"weight": 5.916079783099616,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.14460819999667,
+					38.10691753759992
 				]
 			}
 		},
@@ -9919,15 +10202,17 @@
 				"end": "2001",
 				"denomination": 1,
 				"weight": 6.082762530298219,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.5664,
-					38.816593
+					-78.57396327280347,
+					38.80052920924041
 				]
 			}
 		},
@@ -10179,15 +10464,17 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 6.324555320336759,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.14699,
-					38.104368
+					-79.14460819999667,
+					38.10691753759992
 				]
 			}
 		},
@@ -10824,15 +11111,17 @@
 				"end": "2022",
 				"denomination": 1,
 				"weight": 6.557438524302,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.231074,
-					39.057583
+					-78.23022642348187,
+					39.05719974875619
 				]
 			}
 		},
@@ -11403,6 +11692,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Flat Rock",
+				"begin": "1980",
+				"end": "1988",
+				"denomination": 1,
+				"weight": 6.928203230275509,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.735883,
+					38.703052
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "North Fork",
 				"begin": "1975",
 				"end": "1996",
@@ -11757,6 +12068,50 @@
 				"coordinates": [
 					-80.610307,
 					37.458488
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Stony Creek",
+				"begin": "1989",
+				"end": "1997",
+				"denomination": 1,
+				"weight": 7.14142842854285,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.75208827675448,
+					38.83029290608493
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Cedar Grove - Mt. Jackson",
+				"begin": "2000",
+				"end": "2022",
+				"denomination": 1,
+				"weight": 7.211102550927978,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.64744277015107,
+					38.69412079433302
 				]
 			}
 		},
@@ -12234,15 +12589,18 @@
 				"end": "1949",
 				"denomination": 1,
 				"weight": 7.416198487095663,
-				"affiliations": [],
+				"affiliations": [
+					"Mount Zion",
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.198128,
-					38.93402
+					-78.1968298124239,
+					38.93414516407209
 				]
 			}
 		},
@@ -13445,6 +13803,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Salem (Brethren)",
+				"begin": "1999",
+				"end": "2001",
+				"denomination": 1,
+				"weight": 8.12403840463596,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.23022642348187,
+					39.05719974875619
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Trinity (Luray)",
 				"begin": "1989",
 				"end": "2022",
@@ -13689,6 +14069,28 @@
 				"coordinates": [
 					-78.3968714768425,
 					38.211058924172804
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Flat Rock",
+				"begin": "1989",
+				"end": "1997",
+				"denomination": 1,
+				"weight": 8.306623862918075,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.735883,
+					38.703052
 				]
 			}
 		},
@@ -14086,15 +14488,17 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 8.426149773176359,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.231074,
-					39.057583
+					-78.23022642348187,
+					39.05719974875619
 				]
 			}
 		},
@@ -14349,18 +14753,43 @@
 			"properties": {
 				"name": "Front Royal",
 				"begin": "1950",
-				"end": "1974",
+				"end": "1962",
 				"denomination": 1,
 				"weight": 8.602325267042627,
-				"affiliations": [],
+				"affiliations": [
+					"Mount Zion",
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.198128,
-					38.93402
+					-78.1968298124239,
+					38.93414516407209
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Front Royal",
+				"begin": "1963",
+				"end": "1974",
+				"denomination": 1,
+				"weight": 8.602325267042627,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.1968298124239,
+					38.93414516407209
 				]
 			}
 		},
@@ -14372,7 +14801,9 @@
 				"end": "2022",
 				"denomination": 1,
 				"weight": 8.602325267042627,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -14589,6 +15020,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Arbor Hill",
+				"begin": "1999",
+				"end": "1999",
+				"denomination": 1,
+				"weight": 8.717797887081348,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.14460819999667,
+					38.10691753759992
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Blue Ridge",
 				"begin": "2018",
 				"end": "2022",
@@ -14643,6 +15096,28 @@
 				"coordinates": [
 					-79.876989,
 					36.768145
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Meadow Mills",
+				"begin": "1996",
+				"end": "2001",
+				"denomination": 1,
+				"weight": 8.717797887081348,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.305899,
+					39.023049
 				]
 			}
 		},
@@ -14880,7 +15355,9 @@
 				"end": "1974",
 				"denomination": 1,
 				"weight": 8.831760866327848,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -15911,6 +16388,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Arbor Hill",
+				"begin": "1994",
+				"end": "1998",
+				"denomination": 1,
+				"weight": 9.327379053088816,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.14460819999667,
+					38.10691753759992
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Hebron",
 				"begin": "1975",
 				"end": "1996",
@@ -16333,6 +16832,28 @@
 				"coordinates": [
 					-79.24476,
 					38.62484
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Front Royal",
+				"begin": "1989",
+				"end": "1995",
+				"denomination": 1,
+				"weight": 9.539392014169456,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.1968298124239,
+					38.93414516407209
 				]
 			}
 		},
@@ -17471,6 +17992,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Meadow Mills",
+				"begin": "1989",
+				"end": "1995",
+				"denomination": 1,
+				"weight": 10.099504938362077,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.305899,
+					39.023049
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Pine Grove - Pocohantas",
 				"begin": "1999",
 				"end": "2017",
@@ -17507,6 +18050,28 @@
 				"coordinates": [
 					-78.38814745534067,
 					38.76361533654518
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Front Royal",
+				"begin": "1996",
+				"end": "1998",
+				"denomination": 1,
+				"weight": 10.14889156509222,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.1968298124239,
+					38.93414516407209
 				]
 			}
 		},
@@ -17591,6 +18156,28 @@
 				"coordinates": [
 					-78.581952,
 					38.903292
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Stony Creek",
+				"begin": "1998",
+				"end": "2001",
+				"denomination": 1,
+				"weight": 10.14889156509222,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.75208827675448,
+					38.83029290608493
 				]
 			}
 		},
@@ -17742,15 +18329,18 @@
 				"end": "1949",
 				"denomination": 1,
 				"weight": 10.198039027185569,
-				"affiliations": [],
+				"affiliations": [
+					"Woodstock",
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.231074,
-					39.057583
+					-78.23022642348187,
+					39.05719974875619
 				]
 			}
 		},
@@ -17759,18 +18349,43 @@
 			"properties": {
 				"name": "Stony Creek",
 				"begin": "1975",
-				"end": "2001",
+				"end": "1979",
 				"denomination": 1,
 				"weight": 10.198039027185569,
-				"affiliations": [],
+				"affiliations": [
+					"Flat Rock",
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.7502,
-					38.830318
+					-78.75208827675448,
+					38.83029290608493
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Stony Creek",
+				"begin": "1980",
+				"end": "1988",
+				"denomination": 1,
+				"weight": 10.198039027185569,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.75208827675448,
+					38.83029290608493
 				]
 			}
 		},
@@ -18309,18 +18924,20 @@
 			"properties": {
 				"name": "Salem (Brethren)",
 				"begin": "1972",
-				"end": "2001",
+				"end": "1988",
 				"denomination": 1,
 				"weight": 10.392304845413264,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.231074,
-					39.057583
+					-78.23022642348187,
+					39.05719974875619
 				]
 			}
 		},
@@ -18698,15 +19315,17 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 10.583005244258363,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.7502,
-					38.830318
+					-78.75208827675448,
+					38.83029290608493
 				]
 			}
 		},
@@ -18738,15 +19357,17 @@
 				"end": "2022",
 				"denomination": 1,
 				"weight": 10.63014581273465,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.7502,
-					38.830318
+					-78.75208827675448,
+					38.83029290608493
 				]
 			}
 		},
@@ -18758,7 +19379,9 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 10.677078252031311,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -18869,6 +19492,28 @@
 				"coordinates": [
 					-79.025646,
 					38.008256
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Barren Ridge",
+				"begin": "2000",
+				"end": "2001",
+				"denomination": 1,
+				"weight": 10.723805294763608,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.94520974628664,
+					38.15949630611275
 				]
 			}
 		},
@@ -19102,15 +19747,39 @@
 				"end": "1949",
 				"denomination": 1,
 				"weight": 10.816653826391969,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.14699,
-					38.104368
+					-79.14460819999667,
+					38.10691753759992
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Arbor Hill",
+				"begin": "1985",
+				"end": "1988",
+				"denomination": 1,
+				"weight": 10.816653826391969,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.14460819999667,
+					38.10691753759992
 				]
 			}
 		},
@@ -19237,6 +19906,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Flat Rock",
+				"begin": "1998",
+				"end": "2001",
+				"denomination": 1,
+				"weight": 10.908712114635714,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.735883,
+					38.703052
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Garbers",
 				"begin": "1975",
 				"end": "1998",
@@ -19313,6 +20004,28 @@
 				"coordinates": [
 					-78.599717,
 					38.574904
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Arbor Hill",
+				"begin": "1980",
+				"end": "1984",
+				"denomination": 1,
+				"weight": 11,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.14460819999667,
+					38.10691753759992
 				]
 			}
 		},
@@ -19421,6 +20134,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Salem (Brethren)",
+				"begin": "1989",
+				"end": "1998",
+				"denomination": 1,
+				"weight": 11.090536506409418,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.23022642348187,
+					39.05719974875619
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Waynesboro (Mennonite)",
 				"begin": "1990",
 				"end": "1999",
@@ -19495,6 +20230,28 @@
 				"coordinates": [
 					-78.19358,
 					39.163151
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Cedar Grove - Mt. Jackson",
+				"begin": "1995",
+				"end": "1999",
+				"denomination": 1,
+				"weight": 11.180339887498949,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.64744277015107,
+					38.69412079433302
 				]
 			}
 		},
@@ -20713,6 +21470,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Meadow Mills",
+				"begin": "1980",
+				"end": "1988",
+				"denomination": 1,
+				"weight": 11.832159566199232,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.305899,
+					39.023049
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Pleasant Valley (Floyd)",
 				"begin": "2018",
 				"end": "2022",
@@ -21019,6 +21798,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Cedar Grove - Mt. Jackson",
+				"begin": "1990",
+				"end": "1994",
+				"denomination": 1,
+				"weight": 12.041594578792296,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.64744277015107,
+					38.69412079433302
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Collinsville",
 				"begin": "2002",
 				"end": "2017",
@@ -21221,6 +22022,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Cedar Grove - Mt. Jackson",
+				"begin": "1980",
+				"end": "1984",
+				"denomination": 1,
+				"weight": 12.206555615733702,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.64744277015107,
+					38.69412079433302
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Jeters Chapel",
 				"begin": "1975",
 				"end": "2001",
@@ -21323,6 +22146,28 @@
 				"coordinates": [
 					-78.54967050155707,
 					38.87463262170116
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Arbor Hill",
+				"begin": "1989",
+				"end": "1993",
+				"denomination": 1,
+				"weight": 12.24744871391589,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.14460819999667,
+					38.10691753759992
 				]
 			}
 		},
@@ -21625,6 +22470,28 @@
 				"coordinates": [
 					-78.79842,
 					38.573104
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Cedar Grove - Mt. Jackson",
+				"begin": "1985",
+				"end": "1989",
+				"denomination": 1,
+				"weight": 12.36931687685298,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.64744277015107,
+					38.69412079433302
 				]
 			}
 		},
@@ -22244,15 +23111,17 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 12.649110640673518,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.198128,
-					38.93402
+					-78.1968298124239,
+					38.93414516407209
 				]
 			}
 		},
@@ -22788,15 +23657,17 @@
 				"end": "1959",
 				"denomination": 1,
 				"weight": 13,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.14699,
-					38.104368
+					-79.14460819999667,
+					38.10691753759992
 				]
 			}
 		},
@@ -22805,18 +23676,20 @@
 			"properties": {
 				"name": "Arbor Hill",
 				"begin": "1975",
-				"end": "2001",
+				"end": "1979",
 				"denomination": 1,
 				"weight": 13,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.14699,
-					38.104368
+					-79.14460819999667,
+					38.10691753759992
 				]
 			}
 		},
@@ -22887,18 +23760,20 @@
 			"properties": {
 				"name": "Front Royal",
 				"begin": "1975",
-				"end": "1998",
+				"end": "1988",
 				"denomination": 1,
 				"weight": 13.038404810405298,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.198128,
-					38.93402
+					-78.1968298124239,
+					38.93414516407209
 				]
 			}
 		},
@@ -23112,7 +23987,9 @@
 				"end": "1974",
 				"denomination": 1,
 				"weight": 13.228756555322953,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -23516,15 +24393,17 @@
 				"end": "1974",
 				"denomination": 1,
 				"weight": 13.564659966250536,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.160516,
-					39.148532
+					-78.16170690245295,
+					39.14959697500529
 				]
 			}
 		},
@@ -23665,6 +24544,28 @@
 				"coordinates": [
 					-80.031955,
 					36.762499
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Blue Ridge Chapel",
+				"begin": "1980",
+				"end": "1984",
+				"denomination": 1,
+				"weight": 13.711309200802088,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.861282,
+					38.096373
 				]
 			}
 		},
@@ -24070,6 +24971,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Blue Ridge Chapel",
+				"begin": "1985",
+				"end": "1989",
+				"denomination": 1,
+				"weight": 14.106735979665885,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.861282,
+					38.096373
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Charlottesville",
 				"begin": "1995",
 				"end": "2022",
@@ -24382,7 +25305,9 @@
 				"end": "2022",
 				"denomination": 1,
 				"weight": 14.212670403551895,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -24573,6 +25498,28 @@
 				"coordinates": [
 					-78.990468,
 					37.918041
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Blue Ridge Chapel",
+				"begin": "1995",
+				"end": "2001",
+				"denomination": 1,
+				"weight": 14.422205101855956,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.861282,
+					38.096373
 				]
 			}
 		},
@@ -24881,6 +25828,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Calvary (Brethren)",
+				"begin": "1985",
+				"end": "1989",
+				"denomination": 1,
+				"weight": 14.628738838327793,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.16170690245295,
+					39.14959697500529
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Coulson",
 				"begin": "2018",
 				"end": "2022",
@@ -24966,15 +25935,17 @@
 				"end": "2022",
 				"denomination": 1,
 				"weight": 14.66287829861518,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.160516,
-					39.148532
+					-78.16170690245295,
+					39.14959697500529
 				]
 			}
 		},
@@ -25026,7 +25997,9 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 14.730919862656235,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -25066,15 +26039,17 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 14.832396974191326,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.160516,
-					39.148532
+					-78.16170690245295,
+					39.14959697500529
 				]
 			}
 		},
@@ -25106,7 +26081,9 @@
 				"end": "1949",
 				"denomination": 1,
 				"weight": 14.832396974191326,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -25209,10 +26186,12 @@
 			"properties": {
 				"name": "Blue Ridge Chapel",
 				"begin": "1975",
-				"end": "2001",
+				"end": "1979",
 				"denomination": 1,
 				"weight": 14.933184523068078,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -25301,6 +26280,28 @@
 				"coordinates": [
 					-80.748319,
 					37.05987
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Blue Ridge Chapel",
+				"begin": "1990",
+				"end": "1994",
+				"denomination": 1,
+				"weight": 15.066519173319364,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.861282,
+					38.096373
 				]
 			}
 		},
@@ -25493,10 +26494,12 @@
 			"properties": {
 				"name": "Meadow Mills",
 				"begin": "1975",
-				"end": "2001",
+				"end": "1979",
 				"denomination": 1,
 				"weight": 15.231546211727817,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -25617,18 +26620,20 @@
 			"properties": {
 				"name": "Calvary (Brethren)",
 				"begin": "1975",
-				"end": "2001",
+				"end": "1979",
 				"denomination": 1,
 				"weight": 15.427248620541512,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.160516,
-					39.148532
+					-78.16170690245295,
+					39.14959697500529
 				]
 			}
 		},
@@ -25760,15 +26765,17 @@
 				"end": "1974",
 				"denomination": 1,
 				"weight": 15.491933384829668,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.945714,
-					38.160264
+					-78.94520974628664,
+					38.15949630611275
 				]
 			}
 		},
@@ -25897,6 +26904,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Calvary (Brethren)",
+				"begin": "1980",
+				"end": "1984",
+				"denomination": 1,
+				"weight": 15.811388300841896,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.16170690245295,
+					39.14959697500529
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Germantown Brick",
 				"begin": "1925",
 				"end": "1949",
@@ -25942,15 +26971,17 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 15.84297951775486,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.945714,
-					38.160264
+					-78.94520974628664,
+					38.15949630611275
 				]
 			}
 		},
@@ -26111,18 +27142,20 @@
 			"properties": {
 				"name": "Barren Ridge",
 				"begin": "1975",
-				"end": "2001",
+				"end": "1979",
 				"denomination": 1,
 				"weight": 16.09347693943108,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.945714,
-					38.160264
+					-78.94520974628664,
+					38.15949630611275
 				]
 			}
 		},
@@ -26143,6 +27176,28 @@
 				"coordinates": [
 					-79.066234,
 					38.429851
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Barren Ridge",
+				"begin": "1995",
+				"end": "1999",
+				"denomination": 1,
+				"weight": 16.15549442140351,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.94520974628664,
+					38.15949630611275
 				]
 			}
 		},
@@ -26294,15 +27349,17 @@
 				"end": "2022",
 				"denomination": 1,
 				"weight": 16.278820596099706,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.198128,
-					38.93402
+					-78.1968298124239,
+					38.93414516407209
 				]
 			}
 		},
@@ -26493,6 +27550,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Barren Ridge",
+				"begin": "1990",
+				"end": "1994",
+				"denomination": 1,
+				"weight": 16.46207763315433,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.94520974628664,
+					38.15949630611275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Community",
 				"begin": "2018",
 				"end": "2022",
@@ -26655,6 +27734,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Barren Ridge",
+				"begin": "1980",
+				"end": "1984",
+				"denomination": 1,
+				"weight": 16.703293088490067,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.94520974628664,
+					38.15949630611275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Bassett",
 				"begin": "1975",
 				"end": "2001",
@@ -26695,20 +27796,67 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Salem (Brethren)",
-				"begin": "1950",
-				"end": "1971",
+				"name": "Barren Ridge",
+				"begin": "1985",
+				"end": "1989",
 				"denomination": 1,
 				"weight": 16.73320053068151,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.231074,
-					39.057583
+					-78.94520974628664,
+					38.15949630611275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Salem (Brethren)",
+				"begin": "1950",
+				"end": "1957",
+				"denomination": 1,
+				"weight": 16.73320053068151,
+				"affiliations": [
+					"Woodstock",
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.23022642348187,
+					39.05719974875619
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Salem (Brethren)",
+				"begin": "1958",
+				"end": "1971",
+				"denomination": 1,
+				"weight": 16.73320053068151,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.23022642348187,
+					39.05719974875619
 				]
 			}
 		},
@@ -26921,6 +28069,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Calvary (Brethren)",
+				"begin": "1990",
+				"end": "1994",
+				"denomination": 1,
+				"weight": 17.08800749063506,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.16170690245295,
+					39.14959697500529
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Mount Olive",
 				"begin": "1975",
 				"end": "1979",
@@ -27068,15 +28238,17 @@
 				"end": "1949",
 				"denomination": 1,
 				"weight": 17.320508075688775,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.945714,
-					38.160264
+					-78.94520974628664,
+					38.15949630611275
 				]
 			}
 		},
@@ -27172,15 +28344,39 @@
 				"end": "2022",
 				"denomination": 1,
 				"weight": 17.349351572897472,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-78.945714,
-					38.160264
+					-78.94520974628664,
+					38.15949630611275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Calvary (Brethren)",
+				"begin": "1995",
+				"end": "2001",
+				"denomination": 1,
+				"weight": 17.378147196982766,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.16170690245295,
+					39.14959697500529
 				]
 			}
 		},
@@ -27445,10 +28641,12 @@
 			"properties": {
 				"name": "Flat Rock",
 				"begin": "1950",
-				"end": "1969",
+				"end": "1979",
 				"denomination": 1,
 				"weight": 17.832554500127006,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -28054,15 +29252,17 @@
 				"end": "1974",
 				"denomination": 1,
 				"weight": 18.65475810617763,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.14699,
-					38.104368
+					-79.14460819999667,
+					38.10691753759992
 				]
 			}
 		},
@@ -28183,26 +29383,6 @@
 				"coordinates": [
 					-78.911576,
 					38.437848
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "Flat Rock",
-				"begin": "1970",
-				"end": "1974",
-				"denomination": 1,
-				"weight": 18.734993995195193,
-				"affiliations": [],
-				"tags": [],
-				"photo": ""
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-78.735883,
-					38.703052
 				]
 			}
 		},
@@ -28446,26 +29626,6 @@
 				"coordinates": [
 					-80.41696,
 					36.866548
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "Flat Rock",
-				"begin": "1975",
-				"end": "1979",
-				"denomination": 1,
-				"weight": 19.28730152198591,
-				"affiliations": [],
-				"tags": [],
-				"photo": ""
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-78.735883,
-					38.703052
 				]
 			}
 		},
@@ -28852,26 +30012,6 @@
 				"coordinates": [
 					-78.466439,
 					38.64887
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "Flat Rock",
-				"begin": "1980",
-				"end": "2001",
-				"denomination": 1,
-				"weight": 20.09975124224178,
-				"affiliations": [],
-				"tags": [],
-				"photo": ""
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-78.735883,
-					38.703052
 				]
 			}
 		},
