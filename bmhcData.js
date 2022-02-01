@@ -1,4 +1,4 @@
-function bmhcData(){ return {"idSource":307,"assemblies":{
+function bmhcData(){ return {"idSource":308,"assemblies":{
 	"(Old) Mennonite Church": {
 		"id": 275,
 		"mb": 2,
@@ -1696,28 +1696,46 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 		"mb": 1,
 		"events": [
 			{
-				"date": "1894",
+				"date": "1920",
 				"verb": "begin-history",
 				"object": "",
-				"comment": "founded"
+				"comment": "founded as Peach Grove meeting house"
 			},
 			{
-				"date": "1894",
+				"date": "1920",
 				"verb": "set-locale",
-				"object": "39.148532,-78.160516",
+				"object": "39.14959697500529, -78.16170690245295",
 				"comment": ""
 			},
 			{
-				"date": "1956",
+				"date": "1920",
+				"verb": "set-affiliation",
+				"object": 143,
+				"comment": ""
+			},
+			{
+				"date": "1920",
 				"verb": "just-comment",
 				"object": "",
-				"comment": "organization"
+				"comment": "Moved to Jubilee Christian Church property (abandoned)"
+			},
+			{
+				"date": "1952",
+				"verb": "just-comment",
+				"object": "",
+				"comment": "Name Changed to Calvary"
 			},
 			{
 				"date": "1956",
 				"verb": "set-membership",
 				"object": "184",
 				"comment": "membership at organization"
+			},
+			{
+				"date": "1956",
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": "Separately organized"
 			},
 			{
 				"date": "1958",
@@ -1730,6 +1748,30 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"verb": "set-membership",
 				"object": "238",
 				"comment": "year2n"
+			},
+			{
+				"date": "1980",
+				"verb": "set-membership",
+				"object": "250",
+				"comment": ""
+			},
+			{
+				"date": "1985",
+				"verb": "set-membership",
+				"object": "214",
+				"comment": ""
+			},
+			{
+				"date": "1990",
+				"verb": "set-membership",
+				"object": "292",
+				"comment": ""
+			},
+			{
+				"date": "1995",
+				"verb": "set-membership",
+				"object": "302",
+				"comment": ""
 			},
 			{
 				"date": "2002",
@@ -1898,6 +1940,66 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"verb": "set-membership",
 				"object": "83",
 				"comment": "year3n"
+			}
+		]
+	},
+	"Cedar Grove - Mt. Jackson": {
+		"id": 307,
+		"mb": 1,
+		"events": [
+			{
+				"date": "1900",
+				"verb": "begin-history",
+				"object": "",
+				"comment": "Preaching point of Flat Rock"
+			},
+			{
+				"date": "1900",
+				"verb": "set-locale",
+				"object": "38.69412079433302, -78.64744277015107",
+				"comment": ""
+			},
+			{
+				"date": "1900",
+				"verb": "set-affiliation",
+				"object": 136,
+				"comment": ""
+			},
+			{
+				"date": "1980",
+				"verb": "set-membership",
+				"object": "149",
+				"comment": ""
+			},
+			{
+				"date": "1980",
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": ""
+			},
+			{
+				"date": "1985",
+				"verb": "set-membership",
+				"object": "153",
+				"comment": ""
+			},
+			{
+				"date": "1990",
+				"verb": "set-membership",
+				"object": "145",
+				"comment": ""
+			},
+			{
+				"date": "1995",
+				"verb": "set-membership",
+				"object": "125",
+				"comment": ""
+			},
+			{
+				"date": "2000",
+				"verb": "set-membership",
+				"object": "52",
+				"comment": ""
 			}
 		]
 	},
@@ -4216,10 +4318,16 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"comment": ""
 			},
 			{
+				"date": "1782",
+				"verb": "set-affiliation",
+				"object": 281,
+				"comment": ""
+			},
+			{
 				"date": "1841",
 				"verb": "just-comment",
 				"object": "",
-				"comment": "founded"
+				"comment": "meeting house built"
 			},
 			{
 				"date": "1925",
@@ -4234,22 +4342,22 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"comment": "year2n"
 			},
 			{
-				"date": "1970",
-				"verb": "set-membership",
-				"object": "351",
-				"comment": "year3n"
-			},
-			{
-				"date": "1975",
-				"verb": "set-membership",
-				"object": "372",
-				"comment": "year4n"
-			},
-			{
 				"date": "1980",
 				"verb": "set-membership",
-				"object": "404",
-				"comment": "year5n"
+				"object": "48",
+				"comment": ""
+			},
+			{
+				"date": "1989",
+				"verb": "set-membership",
+				"object": "69",
+				"comment": ""
+			},
+			{
+				"date": "1998",
+				"verb": "set-membership",
+				"object": "119",
+				"comment": ""
 			},
 			{
 				"date": "2002",
@@ -4453,19 +4561,19 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"date": "1946",
 				"verb": "begin-history",
 				"object": "",
-				"comment": "founded"
+				"comment": "founded as Mission Point of Church of the Brethren Northern Virginia District"
 			},
 			{
 				"date": "1946",
 				"verb": "set-locale",
-				"object": "38.93402,-78.198128",
+				"object": "38.93414516407209, -78.1968298124239",
 				"comment": ""
 			},
 			{
-				"date": "1947",
-				"verb": "just-comment",
-				"object": "",
-				"comment": "organization"
+				"date": "1946",
+				"verb": "set-affiliation",
+				"object": 176,
+				"comment": ""
 			},
 			{
 				"date": "1947",
@@ -4480,10 +4588,28 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"comment": "year1n"
 			},
 			{
+				"date": "1963",
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": "Separately organized"
+			},
+			{
 				"date": "1975",
 				"verb": "set-membership",
 				"object": "170",
 				"comment": "year2n"
+			},
+			{
+				"date": "1989",
+				"verb": "set-membership",
+				"object": "91",
+				"comment": ""
+			},
+			{
+				"date": "1996",
+				"verb": "set-membership",
+				"object": "103",
+				"comment": ""
 			},
 			{
 				"date": "1999",
@@ -7228,6 +7354,18 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"comment": ""
 			},
 			{
+				"date": "1913",
+				"verb": "set-affiliation",
+				"object": 283,
+				"comment": "Union Chapel"
+			},
+			{
+				"date": "1938",
+				"verb": "just-comment",
+				"object": "",
+				"comment": "Reorganized as Meadow Mills Union Brethren Church"
+			},
+			{
 				"date": "1959",
 				"verb": "just-comment",
 				"object": "",
@@ -7240,10 +7378,34 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"comment": "membership at organization"
 			},
 			{
+				"date": "1959",
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": ""
+			},
+			{
 				"date": "1975",
 				"verb": "set-membership",
 				"object": "232",
 				"comment": "year1n"
+			},
+			{
+				"date": "1980",
+				"verb": "set-membership",
+				"object": "140",
+				"comment": ""
+			},
+			{
+				"date": "1989",
+				"verb": "set-membership",
+				"object": "102",
+				"comment": ""
+			},
+			{
+				"date": "1996",
+				"verb": "set-membership",
+				"object": "76",
+				"comment": ""
 			},
 			{
 				"date": "2002",
@@ -9792,14 +9954,20 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 			{
 				"date": "1890",
 				"verb": "set-locale",
-				"object": "38.816593,-78.5664",
+				"object": "38.80052920924041, -78.57396327280347",
 				"comment": ""
 			},
 			{
-				"date": "1984",
-				"verb": "just-comment",
-				"object": "",
-				"comment": "organization"
+				"date": "1890",
+				"verb": "set-affiliation",
+				"object": 136,
+				"comment": ""
+			},
+			{
+				"date": "1980",
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": ""
 			},
 			{
 				"date": "1999",
@@ -11604,14 +11772,14 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 			{
 				"date": "1858",
 				"verb": "set-locale",
-				"object": "39.057583,-78.231074",
+				"object": "39.05719974875619, -78.23022642348187",
 				"comment": ""
 			},
 			{
-				"date": "1859",
-				"verb": "just-comment",
-				"object": "",
-				"comment": "founded"
+				"date": "1858",
+				"verb": "set-affiliation",
+				"object": 302,
+				"comment": ""
 			},
 			{
 				"date": "1925",
@@ -11626,10 +11794,28 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"comment": "year2n"
 			},
 			{
+				"date": "1958",
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": "Separately organized by district"
+			},
+			{
 				"date": "1972",
 				"verb": "set-membership",
 				"object": "108",
 				"comment": "year3n"
+			},
+			{
+				"date": "1989",
+				"verb": "set-membership",
+				"object": "123",
+				"comment": ""
+			},
+			{
+				"date": "1999",
+				"verb": "set-membership",
+				"object": "66",
+				"comment": ""
 			},
 			{
 				"date": "2002",
@@ -12576,7 +12762,13 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 			{
 				"date": "1894",
 				"verb": "set-locale",
-				"object": "38.830318,-78.7502",
+				"object": "38.83029290608493, -78.75208827675448",
+				"comment": ""
+			},
+			{
+				"date": "1894",
+				"verb": "set-affiliation",
+				"object": 136,
 				"comment": ""
 			},
 			{
@@ -12590,6 +12782,24 @@ function bmhcData(){ return {"idSource":307,"assemblies":{
 				"verb": "just-comment",
 				"object": "",
 				"comment": "organization"
+			},
+			{
+				"date": "1980",
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": ""
+			},
+			{
+				"date": "1989",
+				"verb": "set-membership",
+				"object": "51",
+				"comment": ""
+			},
+			{
+				"date": "1998",
+				"verb": "set-membership",
+				"object": "103",
+				"comment": ""
 			},
 			{
 				"date": "2002",
