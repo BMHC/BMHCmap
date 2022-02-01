@@ -136,28 +136,46 @@ function bmhcData(){ return {"idSource":308,"assemblies":{
 		"mb": 1,
 		"events": [
 			{
-				"date": "1926",
+				"date": "1916",
 				"verb": "begin-history",
 				"object": "",
-				"comment": "founded"
+				"comment": "founded by Lebanon Congregation"
+			},
+			{
+				"date": "1916",
+				"verb": "set-affiliation",
+				"object": 219,
+				"comment": ""
 			},
 			{
 				"date": "1926",
 				"verb": "set-locale",
-				"object": "38.104368,-79.14699",
+				"object": "38.10691753759992, -79.14460819999667",
 				"comment": ""
 			},
 			{
-				"date": "1947",
+				"date": "1926",
+				"verb": "set-affiliation",
+				"object": 134,
+				"comment": ""
+			},
+			{
+				"date": "1926",
 				"verb": "just-comment",
 				"object": "",
-				"comment": "organization"
+				"comment": "Built first chapel"
 			},
 			{
 				"date": "1947",
 				"verb": "set-membership",
 				"object": "117",
 				"comment": "membership at organization"
+			},
+			{
+				"date": "1947",
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": "Separately organized congregation"
 			},
 			{
 				"date": "1950",
@@ -176,6 +194,42 @@ function bmhcData(){ return {"idSource":308,"assemblies":{
 				"verb": "set-membership",
 				"object": "169",
 				"comment": "year3n"
+			},
+			{
+				"date": "1980",
+				"verb": "set-membership",
+				"object": "121",
+				"comment": ""
+			},
+			{
+				"date": "1985",
+				"verb": "set-membership",
+				"object": "117",
+				"comment": ""
+			},
+			{
+				"date": "1989",
+				"verb": "set-membership",
+				"object": "150",
+				"comment": ""
+			},
+			{
+				"date": "1994",
+				"verb": "set-membership",
+				"object": "87",
+				"comment": ""
+			},
+			{
+				"date": "1999",
+				"verb": "set-membership",
+				"object": "76",
+				"comment": ""
+			},
+			{
+				"date": "2000",
+				"verb": "set-membership",
+				"object": "35",
+				"comment": ""
 			},
 			{
 				"date": "2002",
@@ -270,14 +324,20 @@ function bmhcData(){ return {"idSource":308,"assemblies":{
 			{
 				"date": "1856",
 				"verb": "set-locale",
-				"object": "38.160264,-78.945714",
+				"object": "38.15949630611275, -78.94520974628664",
+				"comment": ""
+			},
+			{
+				"date": "1856",
+				"verb": "set-affiliation",
+				"object": 221,
 				"comment": ""
 			},
 			{
 				"date": "1865",
-				"verb": "just-comment",
-				"object": "",
-				"comment": "organization"
+				"verb": "set-affiliation",
+				"object": 281,
+				"comment": "Separately organized congregation"
 			},
 			{
 				"date": "1925",
@@ -296,6 +356,36 @@ function bmhcData(){ return {"idSource":308,"assemblies":{
 				"verb": "set-membership",
 				"object": "259",
 				"comment": "year3n"
+			},
+			{
+				"date": "1980",
+				"verb": "set-membership",
+				"object": "279",
+				"comment": ""
+			},
+			{
+				"date": "1985",
+				"verb": "set-membership",
+				"object": "280",
+				"comment": ""
+			},
+			{
+				"date": "1990",
+				"verb": "set-membership",
+				"object": "271",
+				"comment": ""
+			},
+			{
+				"date": "1995",
+				"verb": "set-membership",
+				"object": "261",
+				"comment": ""
+			},
+			{
+				"date": "2000",
+				"verb": "set-membership",
+				"object": "115",
+				"comment": ""
 			},
 			{
 				"date": "2002",
@@ -1258,6 +1348,12 @@ function bmhcData(){ return {"idSource":308,"assemblies":{
 				"comment": ""
 			},
 			{
+				"date": "1940",
+				"verb": "set-affiliation",
+				"object": 229,
+				"comment": ""
+			},
+			{
 				"date": "1953",
 				"verb": "just-comment",
 				"object": "",
@@ -1270,10 +1366,40 @@ function bmhcData(){ return {"idSource":308,"assemblies":{
 				"comment": "membership at organization"
 			},
 			{
+				"date": "1953",
+				"verb": "set-affiliation",
+				"object": 280,
+				"comment": "Separately organized congregation"
+			},
+			{
 				"date": "1975",
 				"verb": "set-membership",
 				"object": "223",
 				"comment": "year1n"
+			},
+			{
+				"date": "1980",
+				"verb": "set-membership",
+				"object": "188",
+				"comment": ""
+			},
+			{
+				"date": "1985",
+				"verb": "set-membership",
+				"object": "199",
+				"comment": ""
+			},
+			{
+				"date": "1990",
+				"verb": "set-membership",
+				"object": "227",
+				"comment": ""
+			},
+			{
+				"date": "1995",
+				"verb": "set-membership",
+				"object": "208",
+				"comment": ""
 			},
 			{
 				"date": "2002",
