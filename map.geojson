@@ -1542,6 +1542,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Eastern Mount Carmel",
+				"begin": "1952",
+				"end": "1980",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.42076871671517,
+					38.277287559619765
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Eastside",
 				"begin": "2010",
 				"end": "2012",
@@ -3332,6 +3354,50 @@
 				"coordinates": [
 					-79.019744,
 					38.471174
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Mount Carmel",
+				"begin": "1901",
+				"end": "1907",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"German Baptist Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.42076871671517,
+					38.277287559619765
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Mount Carmel",
+				"begin": "1908",
+				"end": "1952",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.42076871671517,
+					38.277287559619765
 				]
 			}
 		},
@@ -6070,6 +6136,28 @@
 				"coordinates": [
 					-78.91109972498215,
 					38.45515915094008
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Western Mount Carmel",
+				"begin": "1952",
+				"end": "1961",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"Church of the Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.49165634420565,
+					38.324535155069064
 				]
 			}
 		},
