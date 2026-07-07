@@ -6,10 +6,34 @@
 			"properties": {
 				"name": "Antioch (Franklin)",
 				"begin": "1873",
+				"end": "1907",
+				"denomination": 1,
+				"weight": 0,
+				"affiliations": [
+					"German Baptist Brethren"
+				],
+				"tags": [],
+				"photo": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.97997,
+					37.038064
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antioch (Franklin)",
+				"begin": "1908",
 				"end": "1924",
 				"denomination": 1,
 				"weight": 0,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -28976,7 +29000,9 @@
 				"end": "2026",
 				"denomination": 1,
 				"weight": 18.138357147217054,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -29116,7 +29142,9 @@
 				"end": "1949",
 				"denomination": 1,
 				"weight": 18.439088914585774,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -29540,7 +29568,9 @@
 				"end": "2017",
 				"denomination": 1,
 				"weight": 19.157244060668017,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
@@ -30951,7 +30981,9 @@
 				"end": "1974",
 				"denomination": 1,
 				"weight": 25.826343140289914,
-				"affiliations": [],
+				"affiliations": [
+					"Church of the Brethren"
+				],
 				"tags": [],
 				"photo": ""
 			},
