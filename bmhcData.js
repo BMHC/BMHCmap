@@ -9736,6 +9736,12 @@ function bmhcData(){ return {"idSource":308,"assemblies":{
 				"comment": ""
 			},
 			{
+				"date": "1881",
+				"verb": "set-affiliation",
+				"object": 282,
+				"comment": ""
+			},
+			{
 				"date": "1883",
 				"verb": "just-comment",
 				"object": "",
