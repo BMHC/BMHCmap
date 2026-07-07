@@ -3808,6 +3808,12 @@ function bmhcData(){ return {"idSource":308,"assemblies":{
 				"comment": ""
 			},
 			{
+				"date": "1952",
+				"verb": "set-locale",
+				"object": "38.277287559619765, -78.42076871671517",
+				"comment": ""
+			},
+			{
 				"date": "1980",
 				"verb": "expire-into",
 				"object": "",
@@ -8095,6 +8101,12 @@ function bmhcData(){ return {"idSource":308,"assemblies":{
 				"date": "1901",
 				"verb": "set-affiliation",
 				"object": 281,
+				"comment": ""
+			},
+			{
+				"date": "1901",
+				"verb": "set-locale",
+				"object": "38.277287559619765, -78.42076871671517",
 				"comment": ""
 			},
 			{
@@ -14293,6 +14305,12 @@ function bmhcData(){ return {"idSource":308,"assemblies":{
 				"date": "1952",
 				"verb": "set-affiliation",
 				"object": 280,
+				"comment": ""
+			},
+			{
+				"date": "1952",
+				"verb": "set-locale",
+				"object": "38.324535155069064, -78.49165634420565",
 				"comment": ""
 			},
 			{
