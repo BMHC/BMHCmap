@@ -5,6 +5,7 @@ function mapAffiliations(){ return [
 	"Eastern Mount Carmel",
 	"Western Mount Carmel",
 	"Brethren Church",
+	"Old German Baptist Brethren",
 	"(Old) Mennonite Church",
 	"Virginia Mennonite Conference",
 	"Middle District (VA Conf)",
