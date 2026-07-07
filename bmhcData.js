@@ -40,6 +40,12 @@ function bmhcData(){ return {"idSource":308,"assemblies":{
 				"comment": ""
 			},
 			{
+				"date": "1873",
+				"verb": "set-affiliation",
+				"object": 281,
+				"comment": ""
+			},
+			{
 				"date": "1925",
 				"verb": "set-membership",
 				"object": "340",
